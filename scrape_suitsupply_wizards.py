@@ -92,13 +92,24 @@ def fetch_page(product: str, session: requests.Session) -> str:
 
 
 def extract_rsc_payload(html: str) -> str | None:
-    """Return the decoded RSC chunk that contains the configurator data."""
-    chunks = re.findall(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', html, re.DOTALL)
-    for chunk in chunks:
-        # The RSC stream uses unicode escapes; decode once to get real JSON.
+    """Return the decoded RSC chunk that contains the configurator data.
+
+    The RSC stream format is:
+        self.__next_f.push([1,"<json-encoded-string>"])
+
+    We use json.JSONDecoder.raw_decode to parse the string value directly,
+    which correctly handles all JSON escape sequences including \\uXXXX.
+    The unicode_escape codec would misinterpret UTF-8 bytes encoded as
+    consecutive \\u00XX escapes (e.g. é → \\u00c3\\u00a9).
+    """
+    decoder = json.JSONDecoder()
+    for m in re.finditer(r'self\.__next_f\.push\(\[1,', html):
+        pos = m.end()
+        if pos >= len(html) or html[pos] != '"':
+            continue
         try:
-            decoded = chunk.encode().decode("unicode_escape")
-        except (UnicodeDecodeError, ValueError):
+            decoded, _ = decoder.raw_decode(html, pos)
+        except json.JSONDecodeError:
             continue
         if "defaultSelectedFabric" in decoded:
             return decoded

@@ -29,7 +29,7 @@
         "configurationTypes": {
           "4": 249
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "51": {
@@ -56,7 +56,7 @@
         "configurationTypes": {
           "4": 189
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "404": {
@@ -83,7 +83,7 @@
         "configurationTypes": {
           "4": 189
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "406": {
@@ -109,7 +109,7 @@
         "configurationTypes": {
           "4": 199
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "420": {
@@ -135,7 +135,7 @@
         "configurationTypes": {
           "4": 199
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "443": {
@@ -161,7 +161,7 @@
         "configurationTypes": {
           "4": 189
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "445": {
@@ -185,7 +185,7 @@
         "configurationTypes": {
           "4": 189
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "455": {
@@ -209,7 +209,7 @@
         "configurationTypes": {
           "4": 169
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "544": {
@@ -233,7 +233,7 @@
         "configurationTypes": {
           "4": 169
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "601": {
@@ -257,7 +257,7 @@
         "configurationTypes": {
           "4": 249
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "759": {
@@ -281,7 +281,7 @@
         "configurationTypes": {
           "4": 249
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "841": {
@@ -307,7 +307,7 @@
         "configurationTypes": {
           "4": 189
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "946": {
@@ -334,7 +334,7 @@
         "configurationTypes": {
           "4": 169
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "992": {
@@ -360,7 +360,7 @@
         "configurationTypes": {
           "4": 169
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "1196": {
@@ -388,7 +388,7 @@
         "configurationTypes": {
           "4": 169
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "1347": {
@@ -412,7 +412,7 @@
         "configurationTypes": {
           "4": 249
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "1351": {
@@ -438,7 +438,7 @@
         "configurationTypes": {
           "4": 169
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "1584": {
@@ -464,7 +464,7 @@
         "configurationTypes": {
           "4": 149
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "8925": {
@@ -490,7 +490,7 @@
         "configurationTypes": {
           "4": 129
         },
-        "symbol": "â¬"
+        "symbol": "€"
       }
     }
   },
@@ -1021,7 +1021,7 @@
       "additionalPrice": {
         "amount": 10,
         "code": "EUR",
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "99": {
@@ -1107,7 +1107,7 @@
       "optionId": 37,
       "code": "CCWS2",
       "name": "High Widespread",
-      "description": "Like the classic wide collar, this style offers ample space between subtly outwardlyÂ oriented points but carries a slightlyÂ shorter collar length.",
+      "description": "Like the classic wide collar, this style offers ample space between subtly outwardly oriented points but carries a slightly shorter collar length.",
       "configurationTypeId": 4,
       "imageName": "CCWS2",
       "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
@@ -1159,7 +1159,7 @@
       "optionId": 49,
       "code": "TPSTPL2",
       "name": "Pleated Bib",
-      "description": "Pleated bib âa narrow textured ribbed designâbrings the perfect blend of modern elegance and subtly textured style to any black-tie look.",
+      "description": "Pleated bib —a narrow textured ribbed design—brings the perfect blend of modern elegance and subtly textured style to any black-tie look.",
       "configurationTypeId": 4,
       "imageName": "TPSTPL2",
       "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
@@ -1172,7 +1172,7 @@
       "optionId": 84,
       "code": "SSLSP2",
       "name": "Pleated Shoulder & Cuff",
-      "description": "Pleated sleeves feature small pleats along the shoulder and cuffâideal for more formal or business styles.",
+      "description": "Pleated sleeves feature small pleats along the shoulder and cuff—ideal for more formal or business styles.",
       "configurationTypeId": 4,
       "imageName": "SSLSP2",
       "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
@@ -1181,7 +1181,7 @@
       "additionalPrice": {
         "amount": 10,
         "code": "EUR",
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "711": {
@@ -1189,7 +1189,7 @@
       "optionId": 84,
       "code": "SSLSP4",
       "name": "Pleated Shoulder",
-      "description": "Pleated sleeves feature small pleats along the shoulderâideal for more formal or business styles.",
+      "description": "Pleated sleeves feature small pleats along the shoulder—ideal for more formal or business styles.",
       "configurationTypeId": 4,
       "imageName": "SSLSP4",
       "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
@@ -1198,7 +1198,7 @@
       "additionalPrice": {
         "amount": 10,
         "code": "EUR",
-        "symbol": "â¬"
+        "symbol": "€"
       }
     },
     "712": {
@@ -1232,7 +1232,7 @@
       "optionId": 84,
       "code": "SSLSP8",
       "name": "Pleated Shoulder, Cuff & Back",
-      "description": "Small pleats along the shoulder, cuff & backâideal for more formal or business styles.",
+      "description": "Small pleats along the shoulder, cuff & back—ideal for more formal or business styles.",
       "configurationTypeId": 4,
       "imageName": "SSLSP8",
       "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
@@ -1241,7 +1241,7 @@
       "additionalPrice": {
         "amount": 10,
         "code": "EUR",
-        "symbol": "â¬"
+        "symbol": "€"
       }
     }
   },
@@ -1257,7 +1257,7 @@
         "styles": [
           {
             "id": 68,
-            "name": "Widespread PiquÃ© ",
+            "name": "Widespread Piqué ",
             "description": "A well-balanced style with a pique bib and widespread collar.",
             "presetOptions": [
               {
@@ -1311,7 +1311,7 @@
           },
           {
             "id": 69,
-            "name": "Wing Tip PlissÃ©",
+            "name": "Wing Tip Plissé",
             "description": "A classic style featuring a pleated bib and wing tip collar allowing the bowtie to be shown fully",
             "presetOptions": [
               {
@@ -1489,7 +1489,7 @@
       "configurationTypes": {
         "4": 169
       },
-      "symbol": "â¬"
+      "symbol": "€"
     }
   },
   "defaultSection": "fabric",
