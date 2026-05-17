@@ -83,24 +83,38 @@ title: TuxedoShirt
 
 ## Fabrics
 
-| Code | Name | Color | Pattern | Composition | Weight (g/m²) | Mill | Season | Stock | Shirt Price | RTW Codes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| F397278.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €169 | H9390ESF, H7205, H7003 |
-| F397166/1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €169 | — |
-| F3408087.1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €169 | — |
-| F3195620/1 | White Royal Oxford Cotton | White | Plain | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €169 | H6755 |
-| KENT/1000 | White Poplin Egyptian Cotton | White | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €129 | H7011 |
-| F3408254.1 | White Poplin Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €169 | H9095, H9096 |
-| F3405940.1 | White Twill Pure Cotton | White | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €169 | H6393 |
-| Q6A.F3405816/1 | White Lyocell Silk | White | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €199 | H6927 |
-| A.F3405816/4490 | Black Lyocell Silk | Black | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €199 | H6926 |
-| F340782.1 | White Poplin Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 112 | Thomas Mason (It) | All Season | High | €249 | — |
-| F344400.1 | White Twill Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 114 | Thomas Mason (It) | All Season | High | €249 | — |
-| F344402.1 | White Royal Oxford Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 116 | Thomas Mason (It) | All Season | High | €249 | — |
-| F359266.1 | White Herringbone Sea Island Cotton | White | Herringbone | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €249 | — |
-| 91724.5554.00 | White Twill Wrinkle-Free Pima Cotton | White | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €149 | H7000 |
-| F3401638.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €189 | H9356, H7006 |
-| F356239.1 | White Poplin Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €189 | H9256 |
-| F356239.4490 | Black Poplin Egyptian Cotton | Black | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €189 | H6887 |
-| 14900.0.109 | White Poplin Stretch | White | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €189 | H6682ESF, H7007 |
-| F344018.4049 | Black Poplin Stretch | Black | Plain | 78% Cotton, 18% Polyamide, 4% Elastane | 180 | Albini (It) | All Season | High | €189 | — |
+<table id="fabrics" class="fabric-table display">
+<thead><tr>
+<th>Code</th><th>Name</th><th>Color</th><th>Pattern</th><th>Composition</th><th>Weight (g/m²)</th><th>Mill</th><th>Season</th><th>Stock</th><th>Shirt Price</th><th>RTW Codes</th>
+</tr></thead>
+<tbody>
+<tr><td>F397278.1</td><td>White Twill Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H9390ESF, H7205, H7003</td></tr>
+<tr><td>F397166/1</td><td>White Herringbone Cotton</td><td>White</td><td>Herringbone</td><td>100% Egyptian Cotton</td><td>135</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F3408087.1</td><td>White Herringbone Cotton</td><td>White</td><td>Herringbone</td><td>100% Egyptian Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F3195620/1</td><td>White Royal Oxford Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6755</td></tr>
+<tr><td>KENT/1000</td><td>White Poplin Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>120</td><td>Testa Spa (It)</td><td>All Season</td><td>High</td><td>€129</td><td>H7011</td></tr>
+<tr><td>F3408254.1</td><td>White Poplin Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>165</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H9095, H9096</td></tr>
+<tr><td>F3405940.1</td><td>White Twill Pure Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>155</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6393</td></tr>
+<tr><td>Q6A.F3405816/1</td><td>White Lyocell Silk</td><td>White</td><td>Plain</td><td>74% Lyocell, 26% Silk</td><td>113</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€199</td><td>H6927</td></tr>
+<tr><td>A.F3405816/4490</td><td>Black Lyocell Silk</td><td>Black</td><td>Plain</td><td>74% Lyocell, 26% Silk</td><td>113</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€199</td><td>H6926</td></tr>
+<tr><td>F340782.1</td><td>White Poplin Sea Island Cotton</td><td>White</td><td>Plain</td><td>100% Sea Island Cotton</td><td>112</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€249</td><td>—</td></tr>
+<tr><td>F344400.1</td><td>White Twill Sea Island Cotton</td><td>White</td><td>Plain</td><td>100% Sea Island Cotton</td><td>114</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€249</td><td>—</td></tr>
+<tr><td>F344402.1</td><td>White Royal Oxford Sea Island Cotton</td><td>White</td><td>Plain</td><td>100% Sea Island Cotton</td><td>116</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€249</td><td>—</td></tr>
+<tr><td>F359266.1</td><td>White Herringbone Sea Island Cotton</td><td>White</td><td>Herringbone</td><td>100% Sea Island Cotton</td><td>126</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€249</td><td>—</td></tr>
+<tr><td>91724.5554.00</td><td>White Twill Wrinkle-Free Pima Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>126</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€149</td><td>H7000</td></tr>
+<tr><td>F3401638.1</td><td>White Twill Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>180</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€189</td><td>H9356, H7006</td></tr>
+<tr><td>F356239.1</td><td>White Poplin Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€189</td><td>H9256</td></tr>
+<tr><td>F356239.4490</td><td>Black Poplin Egyptian Cotton</td><td>Black</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€189</td><td>H6887</td></tr>
+<tr><td>14900.0.109</td><td>White Poplin Stretch</td><td>White</td><td>Plain</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>135</td><td>Reggiani (It)</td><td>All Season</td><td>High</td><td>€189</td><td>H6682ESF, H7007</td></tr>
+<tr><td>F344018.4049</td><td>Black Poplin Stretch</td><td>Black</td><td>Plain</td><td>78% Cotton, 18% Polyamide, 4% Elastane</td><td>180</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€189</td><td>—</td></tr>
+</tbody>
+</table>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  new DataTable('#fabrics', {
+    paging: false,
+    order: [],
+    layout: { topStart: 'search', topEnd: null, bottomStart: null, bottomEnd: null },
+  });
+});
+</script>

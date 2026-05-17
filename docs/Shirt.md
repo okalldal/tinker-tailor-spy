@@ -139,116 +139,130 @@ title: Shirt
 
 ## Fabrics
 
-| Code | Name | Color | Pattern | Composition | Weight (g/m²) | Mill | Season | Stock | Shirt Price | RTW Codes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LDM.A80275/1000 | White Cotton Linen | White | Plain | 67% Cotton, 33% Linen | 110 | Testa Spa (It) | Spring/Summer | High | €149 | H6918 |
-| F3101704.1 | White Cotton Linen | White | Plain | 71% Cotton, 29% Linen | 105 | Thomas Mason (It) | Spring/Summer | High | €169 | H6780ESF |
-| F3280190.1 | White Cotton Linen | White | Plain | 66% Linen, 34% Cotton | 100 | Albini (It) | Spring/Summer | High | €149 | H9243ESF |
-| LDM.A80275/3 | Light Blue Cotton Linen | Blue | Plain | 67% Cotton, 33% Linen | 110 | Testa Spa (It) | Spring/Summer | High | €149 | H6919 |
-| F3192621.1 | White Pure Linen | White | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | H6728 |
-| F3192621.10 | Light Blue Pure Linen | Blue | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | H6729 |
-| F3192621.20 | Light Brown Pure Linen | Brown | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | H6700 |
-| SE.F3192621/540 | Green Pure Linen | Green | Plain | 100% Linen | 119 | Albini (It) | Spring/Summer | High | €149 | H7319 |
-| F339637.199851 | Navy Pure Linen | Blue | Plain | 100% Linen | 130 | Albini (It) | Spring/Summer | High | €149 | H6726 |
-| SPERRIN/28516 | Mid Blue Pure Linen | Blue | Plain | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | H7348 |
-| SPYD.H945/6902 | Mid Blue Stripe Pure Linen | Blue | Stripe | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | H7512 |
-| SPERRIN/Dbrown | Dark Brown Pure Linen | Brown | Plain | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | H7592 |
-| F397278.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H9390ESF, H7205, H7003 |
-| F3405172.20 | Off-White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | — |
-| F3407014.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H6446ESF |
-| F397166/1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | — |
-| F3408087.1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | — |
-| F3195620/1 | White Royal Oxford Cotton | White | Plain | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | H6755 |
-| KENT/1000 | White Poplin Egyptian Cotton | White | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €109 | H7011 |
-| F3408254.1 | White Poplin Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | H9095, H9096 |
-| F357253.1 | White Giro Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | H6342ESF |
-| F3103737.1 | White Nido D'ape Cotton | White | Plain | 100% Egyptian Cotton | 170 | Albini (It) | All Season | High | €149 | H6781ESF |
-| PCRL.P151/0009 | White Poplin Pure Cotton | White | Plain | 100% Cotton | 140 | Sidogras (Es) | All Season | High | €109 | H7523 |
-| F3405172.31 | Pink Twill Cotton | Pink | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | — |
-| F3192063.31 | Pink Royal Oxford Cotton | Pink | Plain | 100% Egyptian Cotton | 128 | Albini (It) | All Season | High | €149 | H6788 |
-| F397278.10 | Light Blue Twill Cotton | Blue | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H9392ESF, H7004 |
-| F397382.10 | Light Blue Twill Cotton | Blue | Plain | 100% Egyptian Cotton | 122 | Albini (It) | All Season | High | €149 | H6447ESF |
-| F3408087.11 | Light Blue Herringbone Cotton | Blue | Herringbone | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | — |
-| F397402.11 | Light Blue Poplin Cotton | Blue | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | — |
-| F357311.11 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 86 | Albini (It) | All Season | High | €149 | H6784ESF |
-| KENT/50408 | Light Blue Poplin Egyptian Cotton | Blue | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €109 | H7012 |
-| F3411121.11 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | H6881 |
-| PT.F3411730/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 88 | Albini (It) | All Season | High | €149 | H7209 |
-| PCRL.P151/9191 | Light Blue Poplin Pure Cotton | Blue | Plain | 100% Cotton | 140 | Sidogras (Es) | All Season | High | €109 | H7564 |
-| TAT.F3193751/13 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 87 | Albini (It) | All Season | High | €149 | H6921 |
-| PT.F3411738/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 88 | Albini (It) | All Season | High | €149 | H7207 |
-| F357134.13 | Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | H6880 |
-| TA.F3194489/15 | Mid Blue Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 84 | Albini (It) | All Season | High | €149 | H7315 |
-| F353800.13 | Mid Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 112 | Albini (It) | All Season | High | €149 | H6786ESF |
-| DW.F3193620/13 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 120 | Thomas Mason (It) | All Season | High | €169 | H6920 |
-| DW.F3193874/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7216 |
-| DW.F355585/11 | Mid Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7217 |
-| TA.F3194510/41 | Grey Stripe Egyptian Cotton | White | Stripe | 100% Cotton | 84 | Albini (It) | All Season | High | €149 | H7311 |
-| F3403497.49 | White Stripe Cotton Poplin | White | Stripe | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | H6884, H7212 |
-| MC00-5289/001 | Mid Blue Stripe Poplin Pure Cotton | Blue | Stripe | 100% Cotton | 110 | Sidogras (Es) | All Season | High | €109 | H7526 |
-| PNF3413012/13C | White Stripe Poplin Egyptian Cotton | White | Stripe | 100% Cotton | 120 | Albini (It) | All Season | High | €169 | H7548 |
-| YPF3412843/13B | Mid Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Albini (It) | All Season | High | €149 | H7550 |
-| F397400.11 | Light Blue Stripe Royal Oxford Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | H6744 |
-| R.F3412643/15B | Light Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7543 |
-| F397401.15 | Navy Stripe Twill Cotton | Blue | Stripe | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H6753 |
-| F3192152.21 | Light Brown Stripe Poplin Cotton | Brown | Stripe | 100% Egyptian Cotton | 110 | Albini (It) | All Season | High | €149 | — |
-| F355586.18 | Navy Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €149 | H6441ESF |
-| F385643.11 | Light Blue Houndstooth Twill Cotton | Blue | Houndstooth | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | — |
-| DW.F355587/45B | Black Stripe Poplin Egyptian Cotton | Black | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | H7544 |
-| DWF3403497/15B | Navy Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7549 |
-| F3405940.1 | White Twill Pure Cotton | White | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €149 | H6393 |
-| Q6A.F3405816/1 | White Lyocell Silk | White | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €179 | H6927 |
-| F3409170.23 | Light Brown Stripe Twill Cotton Lyocell | Brown | Stripe | 74% Cotton, 26% Tencel | 174 | Albini (It) | All Season | High | €149 | H6541ESF |
-| F3405940.11 | Light Blue Twill Pure Cotton | Blue | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €149 | — |
-| A.F3405816/4490 | Black Lyocell Silk | Black | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €179 | H6926 |
-| MC00-5611/004 | Sand Stripe Pure Lyocell | Brown | Stripe | 100% Lyocell | 120 | Sidogras (Es) | All Season | High | €149 | H7536 |
-| F340782.1 | White Poplin Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 112 | Thomas Mason (It) | All Season | High | €229 | — |
-| F344400.1 | White Twill Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 114 | Thomas Mason (It) | All Season | High | €229 | — |
-| F344402.1 | White Royal Oxford Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 116 | Thomas Mason (It) | All Season | High | €229 | — |
-| F359266.1 | White Herringbone Sea Island Cotton | White | Herringbone | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €229 | — |
-| F3192776.10 | Light Blue Twill Sea Island Cotton | Blue | Plain | 100% Sea Island Cotton | 114 | Thomas Mason (It) | All Season | High | €229 | — |
-| F359269.11 | Light Blue Twill Sea Island Cotton | Blue | Plain | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €229 | — |
-| F359267.11 | Light Blue Herringbone Sea Island Cotton | Blue | Herringbone | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €229 | — |
-| 91724.5554.00 | White Twill Wrinkle-Free Pima Cotton | White | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €129 | H7000 |
-| 91129.1831.00 | White Oxford Wrinkle-Free Pima Cotton | White | Plain | 100% Pima Cotton | 125 | Weba (Ch) | All Season | High | €129 | — |
-| 91724.5554.S112 | Light Blue Twill Wrinkle-Free Pima Cotton | Blue | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €129 | H7001 |
-| 91129.1831.14 | Light Blue Royal Oxford Wrinkle-Free Pima Cotton | Blue | Plain | 100% Pima Cotton | 125 | Weba (Ch) | All Season | High | €129 | — |
-| 91747.9537.S117 | Navy Royal Oxford  Wrinkle-Free Pima Cotton | Blue | Plain | 100% Pima Cotton | 145 | Weba (Ch) | All Season | High | €129 | — |
-| 91724.9523.16 | White Pinstripe Twill Wrinkle-Free Pima Cotton | White | Stripe | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | H6890 |
-| 91750.9560.16 | Navy Stripe Royal Oxford Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 135 | Weba (Ch) | All Season | High | €129 | H9409, H7201 |
-| 91724.9525.32 | Light Grey Stripe Twill Wrinkle-Free Pima Cotton | Grey | Stripe | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | H6893 |
-| 91738.9530.10 | Light Blue Stripe Oxford Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 168 | Weba (Ch) | All Season | High | €129 | H7002 |
-| 91737.9529.12 | Mid Blue Stripe Twill Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 147 | Weba (Ch) | All Season | High | €129 | H9418ESF |
-| 91724.9524.12 | Light Blue Check Twill Wrinkle-Free Pima Cotton | Blue | Check | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | H6891 |
-| 91310.9526.12 | Light Blue Houndstooth Twill Wrinkle-Free Pima Cotton | Blue | Houndstooth | 100% Pima Cotton | 162 | Weba (Ch) | All Season | High | €129 | H6892 |
-| AH04044.2005565/1D | Navy Royal Oxford Cotton Traveller | Blue | Plain | 100% Cotton | 137 | Luthai (Cn) | All Season | High | €109 | H9311 |
-| AH04044.2005569/1D | Light Grey Stripe Twill Cotton Traveller | Grey | Stripe | 100% Cotton | 140 | Luthai (Cn) | All Season | High | €109 | — |
-| F3401638.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | H9356, H7006 |
-| F354094.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
-| F354095.1 | White Royal Oxford Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
-| F356239.1 | White Poplin Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €169 | H9256 |
-| F354094.143 | Blue Twill Egyptian Cotton | Blue | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
-| F356239.4490 | Black Poplin Egyptian Cotton | Black | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €169 | H6887 |
-| F3403557.14 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | H6746 |
-| F3401639.15 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | — |
-| F3403556.12 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | H6485 |
-| F368257.13 | Light Blue Royal Oxford Egyptian Cotton | Blue | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
-| 14900.0.109 | White Poplin Stretch | White | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €169 | H6682ESF, H7007 |
-| F344018.3 | Off-White Poplin Stretch | White | Plain | 78% Cotton, 18% Polyamide, 4% Elastane | 180 | Albini (It) | All Season | High | €169 | — |
-| F3190653.11 | Light Blue Poplin Stretch | Blue | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 125 | Albini (It) | All Season | High | €169 | — |
-| 14900.0/6661 | Navy Twill Stretch | Blue | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 180 | Reggiani (It) | All Season | High | €169 | H6585ESF |
-| F344018.4049 | Black Poplin Stretch | Black | Plain | 78% Cotton, 18% Polyamide, 4% Elastane | 180 | Albini (It) | All Season | High | €169 | — |
-| 14900.0/180 | Black Poplin Stretch Cotton | Black | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 130 | Reggiani (It) | All Season | High | €169 | — |
-| F3190654.11 | Light Blue Hairline Poplin Stretch | Blue | Stripe | 78% Cotton, 17% Polyamide, 5% Elastane | 125 | Albini (It) | All Season | High | €169 | — |
-| 14900C.30 | Light Blue Stripe Poplin Stretch | Blue | Stripe | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €169 | H6680ESF |
-| TC2058.815 | Off-White Pique Cotton | White | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | H6714ESF, H7214 |
-| TC2062.802 | Navy Jersey Cotton | Blue | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | H6713ESF |
-| TC2062.806 | Black Jersey Cotton | Black | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | H6807ESF |
-| TAT.F3194510/21 | Camel Stripe Poplin Egyptian Cotton | Brown | Stripe | 100% Cotton | 85 | Albini (It) | All Season | High | €149 | H7406 |
-| PM.F357197/41 | Grey Stripe Poplin Egyptian Cotton | Grey | Stripe | 100% Cotton | 91 | Albini (It) | All Season | High | €149 | H7403 |
-| F3195620/11 | Light Blue Royal Oxford Egyptian Cotton | Blue | Plain | 100% Cotton | 205 | Albini (It) | All Season | High | €149 | H7009 |
-| F357253.11 | Light Blue Giro Cotton | Blue | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €129 | H6345ESF, H6345 |
-| RG.F3412648/15 | Light Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | H7407 |
-| RG.F412648/18 | Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | H7408 |
-| F3189837.49 | Grey Twill Cotton Flannel | Grey | Plain | 100% Egyptian Cotton | 130 | Albini (It) | Fall/Winter | High | €159 | H6402 |
-| DW.F3401643/45 |  Black Stripe Poplin Egyptian Cotton | Black | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €169 | H7404 |
+<table id="fabrics" class="fabric-table display">
+<thead><tr>
+<th>Code</th><th>Name</th><th>Color</th><th>Pattern</th><th>Composition</th><th>Weight (g/m²)</th><th>Mill</th><th>Season</th><th>Stock</th><th>Shirt Price</th><th>RTW Codes</th>
+</tr></thead>
+<tbody>
+<tr><td>LDM.A80275/1000</td><td>White Cotton Linen</td><td>White</td><td>Plain</td><td>67% Cotton, 33% Linen</td><td>110</td><td>Testa Spa (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H6918</td></tr>
+<tr><td>F3101704.1</td><td>White Cotton Linen</td><td>White</td><td>Plain</td><td>71% Cotton, 29% Linen</td><td>105</td><td>Thomas Mason (It)</td><td>Spring/Summer</td><td>High</td><td>€169</td><td>H6780ESF</td></tr>
+<tr><td>F3280190.1</td><td>White Cotton Linen</td><td>White</td><td>Plain</td><td>66% Linen, 34% Cotton</td><td>100</td><td>Albini (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H9243ESF</td></tr>
+<tr><td>LDM.A80275/3</td><td>Light Blue Cotton Linen</td><td>Blue</td><td>Plain</td><td>67% Cotton, 33% Linen</td><td>110</td><td>Testa Spa (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H6919</td></tr>
+<tr><td>F3192621.1</td><td>White Pure Linen</td><td>White</td><td>Plain</td><td>100% Linen</td><td>120</td><td>Albini (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H6728</td></tr>
+<tr><td>F3192621.10</td><td>Light Blue Pure Linen</td><td>Blue</td><td>Plain</td><td>100% Linen</td><td>120</td><td>Albini (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H6729</td></tr>
+<tr><td>F3192621.20</td><td>Light Brown Pure Linen</td><td>Brown</td><td>Plain</td><td>100% Linen</td><td>120</td><td>Albini (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H6700</td></tr>
+<tr><td>SE.F3192621/540</td><td>Green Pure Linen</td><td>Green</td><td>Plain</td><td>100% Linen</td><td>119</td><td>Albini (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H7319</td></tr>
+<tr><td>F339637.199851</td><td>Navy Pure Linen</td><td>Blue</td><td>Plain</td><td>100% Linen</td><td>130</td><td>Albini (It)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H6726</td></tr>
+<tr><td>SPERRIN/28516</td><td>Mid Blue Pure Linen</td><td>Blue</td><td>Plain</td><td>100% Linen</td><td>130</td><td>Baird McNutt (GB)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H7348</td></tr>
+<tr><td>SPYD.H945/6902</td><td>Mid Blue Stripe Pure Linen</td><td>Blue</td><td>Stripe</td><td>100% Linen</td><td>130</td><td>Baird McNutt (GB)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H7512</td></tr>
+<tr><td>SPERRIN/Dbrown</td><td>Dark Brown Pure Linen</td><td>Brown</td><td>Plain</td><td>100% Linen</td><td>130</td><td>Baird McNutt (GB)</td><td>Spring/Summer</td><td>High</td><td>€149</td><td>H7592</td></tr>
+<tr><td>F397278.1</td><td>White Twill Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H9390ESF, H7205, H7003</td></tr>
+<tr><td>F3405172.20</td><td>Off-White Twill Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F3407014.1</td><td>White Twill Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6446ESF</td></tr>
+<tr><td>F397166/1</td><td>White Herringbone Cotton</td><td>White</td><td>Herringbone</td><td>100% Egyptian Cotton</td><td>135</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F3408087.1</td><td>White Herringbone Cotton</td><td>White</td><td>Herringbone</td><td>100% Egyptian Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F3195620/1</td><td>White Royal Oxford Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6755</td></tr>
+<tr><td>KENT/1000</td><td>White Poplin Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>120</td><td>Testa Spa (It)</td><td>All Season</td><td>High</td><td>€109</td><td>H7011</td></tr>
+<tr><td>F3408254.1</td><td>White Poplin Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>165</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H9095, H9096</td></tr>
+<tr><td>F357253.1</td><td>White Giro Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>165</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6342ESF</td></tr>
+<tr><td>F3103737.1</td><td>White Nido D&#x27;ape Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>170</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6781ESF</td></tr>
+<tr><td>PCRL.P151/0009</td><td>White Poplin Pure Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>140</td><td>Sidogras (Es)</td><td>All Season</td><td>High</td><td>€109</td><td>H7523</td></tr>
+<tr><td>F3405172.31</td><td>Pink Twill Cotton</td><td>Pink</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F3192063.31</td><td>Pink Royal Oxford Cotton</td><td>Pink</td><td>Plain</td><td>100% Egyptian Cotton</td><td>128</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6788</td></tr>
+<tr><td>F397278.10</td><td>Light Blue Twill Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H9392ESF, H7004</td></tr>
+<tr><td>F397382.10</td><td>Light Blue Twill Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>122</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6447ESF</td></tr>
+<tr><td>F3408087.11</td><td>Light Blue Herringbone Cotton</td><td>Blue</td><td>Herringbone</td><td>100% Egyptian Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F397402.11</td><td>Light Blue Poplin Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>165</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F357311.11</td><td>Light Blue Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>86</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6784ESF</td></tr>
+<tr><td>KENT/50408</td><td>Light Blue Poplin Egyptian Cotton</td><td>Blue</td><td>Plain</td><td>100% Cotton</td><td>120</td><td>Testa Spa (It)</td><td>All Season</td><td>High</td><td>€109</td><td>H7012</td></tr>
+<tr><td>F3411121.11</td><td>Light Blue Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>135</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6881</td></tr>
+<tr><td>PT.F3411730/13</td><td>Light Blue Poplin Stripe Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>88</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7209</td></tr>
+<tr><td>PCRL.P151/9191</td><td>Light Blue Poplin Pure Cotton</td><td>Blue</td><td>Plain</td><td>100% Cotton</td><td>140</td><td>Sidogras (Es)</td><td>All Season</td><td>High</td><td>€109</td><td>H7564</td></tr>
+<tr><td>TAT.F3193751/13</td><td>Light Blue Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>87</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6921</td></tr>
+<tr><td>PT.F3411738/13</td><td>Light Blue Poplin Stripe Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>88</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7207</td></tr>
+<tr><td>F357134.13</td><td>Blue Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>135</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6880</td></tr>
+<tr><td>TA.F3194489/15</td><td>Mid Blue Stripe Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>84</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7315</td></tr>
+<tr><td>F353800.13</td><td>Mid Blue Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>112</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6786ESF</td></tr>
+<tr><td>DW.F3193620/13</td><td>Light Blue Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>120</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6920</td></tr>
+<tr><td>DW.F3193874/13</td><td>Light Blue Poplin Stripe Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>122</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7216</td></tr>
+<tr><td>DW.F355585/11</td><td>Mid Blue Poplin Stripe Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>122</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7217</td></tr>
+<tr><td>TA.F3194510/41</td><td>Grey Stripe Egyptian Cotton</td><td>White</td><td>Stripe</td><td>100% Cotton</td><td>84</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7311</td></tr>
+<tr><td>F3403497.49</td><td>White Stripe Cotton Poplin</td><td>White</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>180</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6884, H7212</td></tr>
+<tr><td>MC00-5289/001</td><td>Mid Blue Stripe Poplin Pure Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>110</td><td>Sidogras (Es)</td><td>All Season</td><td>High</td><td>€109</td><td>H7526</td></tr>
+<tr><td>PNF3413012/13C</td><td>White Stripe Poplin Egyptian Cotton</td><td>White</td><td>Stripe</td><td>100% Cotton</td><td>120</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H7548</td></tr>
+<tr><td>YPF3412843/13B</td><td>Mid Blue Stripe Poplin Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>120</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7550</td></tr>
+<tr><td>F397400.11</td><td>Light Blue Stripe Royal Oxford Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6744</td></tr>
+<tr><td>R.F3412643/15B</td><td>Light Blue Stripe Poplin Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>122</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7543</td></tr>
+<tr><td>F397401.15</td><td>Navy Stripe Twill Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6753</td></tr>
+<tr><td>F3192152.21</td><td>Light Brown Stripe Poplin Cotton</td><td>Brown</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>110</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>F355586.18</td><td>Navy Stripe Poplin Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>190</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6441ESF</td></tr>
+<tr><td>F385643.11</td><td>Light Blue Houndstooth Twill Cotton</td><td>Blue</td><td>Houndstooth</td><td>100% Egyptian Cotton</td><td>190</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>DW.F355587/45B</td><td>Black Stripe Poplin Egyptian Cotton</td><td>Black</td><td>Stripe</td><td>100% Cotton</td><td>120</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7544</td></tr>
+<tr><td>DWF3403497/15B</td><td>Navy Stripe Poplin Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>122</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7549</td></tr>
+<tr><td>F3405940.1</td><td>White Twill Pure Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>155</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6393</td></tr>
+<tr><td>Q6A.F3405816/1</td><td>White Lyocell Silk</td><td>White</td><td>Plain</td><td>74% Lyocell, 26% Silk</td><td>113</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€179</td><td>H6927</td></tr>
+<tr><td>F3409170.23</td><td>Light Brown Stripe Twill Cotton Lyocell</td><td>Brown</td><td>Stripe</td><td>74% Cotton, 26% Tencel</td><td>174</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H6541ESF</td></tr>
+<tr><td>F3405940.11</td><td>Light Blue Twill Pure Cotton</td><td>Blue</td><td>Plain</td><td>100% Cotton</td><td>155</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>—</td></tr>
+<tr><td>A.F3405816/4490</td><td>Black Lyocell Silk</td><td>Black</td><td>Plain</td><td>74% Lyocell, 26% Silk</td><td>113</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€179</td><td>H6926</td></tr>
+<tr><td>MC00-5611/004</td><td>Sand Stripe Pure Lyocell</td><td>Brown</td><td>Stripe</td><td>100% Lyocell</td><td>120</td><td>Sidogras (Es)</td><td>All Season</td><td>High</td><td>€149</td><td>H7536</td></tr>
+<tr><td>F340782.1</td><td>White Poplin Sea Island Cotton</td><td>White</td><td>Plain</td><td>100% Sea Island Cotton</td><td>112</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>F344400.1</td><td>White Twill Sea Island Cotton</td><td>White</td><td>Plain</td><td>100% Sea Island Cotton</td><td>114</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>F344402.1</td><td>White Royal Oxford Sea Island Cotton</td><td>White</td><td>Plain</td><td>100% Sea Island Cotton</td><td>116</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>F359266.1</td><td>White Herringbone Sea Island Cotton</td><td>White</td><td>Herringbone</td><td>100% Sea Island Cotton</td><td>126</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>F3192776.10</td><td>Light Blue Twill Sea Island Cotton</td><td>Blue</td><td>Plain</td><td>100% Sea Island Cotton</td><td>114</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>F359269.11</td><td>Light Blue Twill Sea Island Cotton</td><td>Blue</td><td>Plain</td><td>100% Sea Island Cotton</td><td>126</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>F359267.11</td><td>Light Blue Herringbone Sea Island Cotton</td><td>Blue</td><td>Herringbone</td><td>100% Sea Island Cotton</td><td>126</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€229</td><td>—</td></tr>
+<tr><td>91724.5554.00</td><td>White Twill Wrinkle-Free Pima Cotton</td><td>White</td><td>Plain</td><td>100% Cotton</td><td>126</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H7000</td></tr>
+<tr><td>91129.1831.00</td><td>White Oxford Wrinkle-Free Pima Cotton</td><td>White</td><td>Plain</td><td>100% Pima Cotton</td><td>125</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>—</td></tr>
+<tr><td>91724.5554.S112</td><td>Light Blue Twill Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Plain</td><td>100% Cotton</td><td>126</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H7001</td></tr>
+<tr><td>91129.1831.14</td><td>Light Blue Royal Oxford Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Plain</td><td>100% Pima Cotton</td><td>125</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>—</td></tr>
+<tr><td>91747.9537.S117</td><td>Navy Royal Oxford  Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Plain</td><td>100% Pima Cotton</td><td>145</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>—</td></tr>
+<tr><td>91724.9523.16</td><td>White Pinstripe Twill Wrinkle-Free Pima Cotton</td><td>White</td><td>Stripe</td><td>100% Pima Cotton</td><td>126</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H6890</td></tr>
+<tr><td>91750.9560.16</td><td>Navy Stripe Royal Oxford Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Stripe</td><td>100% Pima Cotton</td><td>135</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H9409, H7201</td></tr>
+<tr><td>91724.9525.32</td><td>Light Grey Stripe Twill Wrinkle-Free Pima Cotton</td><td>Grey</td><td>Stripe</td><td>100% Pima Cotton</td><td>126</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H6893</td></tr>
+<tr><td>91738.9530.10</td><td>Light Blue Stripe Oxford Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Stripe</td><td>100% Pima Cotton</td><td>168</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H7002</td></tr>
+<tr><td>91737.9529.12</td><td>Mid Blue Stripe Twill Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Stripe</td><td>100% Pima Cotton</td><td>147</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H9418ESF</td></tr>
+<tr><td>91724.9524.12</td><td>Light Blue Check Twill Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Check</td><td>100% Pima Cotton</td><td>126</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H6891</td></tr>
+<tr><td>91310.9526.12</td><td>Light Blue Houndstooth Twill Wrinkle-Free Pima Cotton</td><td>Blue</td><td>Houndstooth</td><td>100% Pima Cotton</td><td>162</td><td>Weba (Ch)</td><td>All Season</td><td>High</td><td>€129</td><td>H6892</td></tr>
+<tr><td>AH04044.2005565/1D</td><td>Navy Royal Oxford Cotton Traveller</td><td>Blue</td><td>Plain</td><td>100% Cotton</td><td>137</td><td>Luthai (Cn)</td><td>All Season</td><td>High</td><td>€109</td><td>H9311</td></tr>
+<tr><td>AH04044.2005569/1D</td><td>Light Grey Stripe Twill Cotton Traveller</td><td>Grey</td><td>Stripe</td><td>100% Cotton</td><td>140</td><td>Luthai (Cn)</td><td>All Season</td><td>High</td><td>€109</td><td>—</td></tr>
+<tr><td>F3401638.1</td><td>White Twill Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>180</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H9356, H7006</td></tr>
+<tr><td>F354094.1</td><td>White Twill Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>205</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F354095.1</td><td>White Royal Oxford Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>205</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F356239.1</td><td>White Poplin Egyptian Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H9256</td></tr>
+<tr><td>F354094.143</td><td>Blue Twill Egyptian Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>205</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F356239.4490</td><td>Black Poplin Egyptian Cotton</td><td>Black</td><td>Plain</td><td>100% Egyptian Cotton</td><td>190</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6887</td></tr>
+<tr><td>F3403557.14</td><td>Blue Stripe Twill Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>205</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6746</td></tr>
+<tr><td>F3401639.15</td><td>Blue Stripe Twill Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>180</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F3403556.12</td><td>Blue Stripe Twill Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Egyptian Cotton</td><td>205</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6485</td></tr>
+<tr><td>F368257.13</td><td>Light Blue Royal Oxford Egyptian Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>205</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>14900.0.109</td><td>White Poplin Stretch</td><td>White</td><td>Plain</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>135</td><td>Reggiani (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6682ESF, H7007</td></tr>
+<tr><td>F344018.3</td><td>Off-White Poplin Stretch</td><td>White</td><td>Plain</td><td>78% Cotton, 18% Polyamide, 4% Elastane</td><td>180</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F3190653.11</td><td>Light Blue Poplin Stretch</td><td>Blue</td><td>Plain</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>125</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>14900.0/6661</td><td>Navy Twill Stretch</td><td>Blue</td><td>Plain</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>180</td><td>Reggiani (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6585ESF</td></tr>
+<tr><td>F344018.4049</td><td>Black Poplin Stretch</td><td>Black</td><td>Plain</td><td>78% Cotton, 18% Polyamide, 4% Elastane</td><td>180</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>14900.0/180</td><td>Black Poplin Stretch Cotton</td><td>Black</td><td>Plain</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>130</td><td>Reggiani (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>F3190654.11</td><td>Light Blue Hairline Poplin Stretch</td><td>Blue</td><td>Stripe</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>125</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€169</td><td>—</td></tr>
+<tr><td>14900C.30</td><td>Light Blue Stripe Poplin Stretch</td><td>Blue</td><td>Stripe</td><td>78% Cotton, 17% Polyamide, 5% Elastane</td><td>135</td><td>Reggiani (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H6680ESF</td></tr>
+<tr><td>TC2058.815</td><td>Off-White Pique Cotton</td><td>White</td><td>Plain</td><td>100% Egyptian Cotton</td><td>134</td><td>Tessilmaglia (It)</td><td>All Season</td><td>High</td><td>€109</td><td>H6714ESF, H7214</td></tr>
+<tr><td>TC2062.802</td><td>Navy Jersey Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>134</td><td>Tessilmaglia (It)</td><td>All Season</td><td>High</td><td>€109</td><td>H6713ESF</td></tr>
+<tr><td>TC2062.806</td><td>Black Jersey Cotton</td><td>Black</td><td>Plain</td><td>100% Egyptian Cotton</td><td>134</td><td>Tessilmaglia (It)</td><td>All Season</td><td>High</td><td>€109</td><td>H6807ESF</td></tr>
+<tr><td>TAT.F3194510/21</td><td>Camel Stripe Poplin Egyptian Cotton</td><td>Brown</td><td>Stripe</td><td>100% Cotton</td><td>85</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7406</td></tr>
+<tr><td>PM.F357197/41</td><td>Grey Stripe Poplin Egyptian Cotton</td><td>Grey</td><td>Stripe</td><td>100% Cotton</td><td>91</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7403</td></tr>
+<tr><td>F3195620/11</td><td>Light Blue Royal Oxford Egyptian Cotton</td><td>Blue</td><td>Plain</td><td>100% Cotton</td><td>205</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7009</td></tr>
+<tr><td>F357253.11</td><td>Light Blue Giro Cotton</td><td>Blue</td><td>Plain</td><td>100% Egyptian Cotton</td><td>165</td><td>Albini (It)</td><td>All Season</td><td>High</td><td>€129</td><td>H6345ESF, H6345</td></tr>
+<tr><td>RG.F3412648/15</td><td>Light Blue Stripe Poplin Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>120</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7407</td></tr>
+<tr><td>RG.F412648/18</td><td>Blue Stripe Poplin Egyptian Cotton</td><td>Blue</td><td>Stripe</td><td>100% Cotton</td><td>120</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€149</td><td>H7408</td></tr>
+<tr><td>F3189837.49</td><td>Grey Twill Cotton Flannel</td><td>Grey</td><td>Plain</td><td>100% Egyptian Cotton</td><td>130</td><td>Albini (It)</td><td>Fall/Winter</td><td>High</td><td>€159</td><td>H6402</td></tr>
+<tr><td>DW.F3401643/45</td><td> Black Stripe Poplin Egyptian Cotton</td><td>Black</td><td>Stripe</td><td>100% Cotton</td><td>122</td><td>Thomas Mason (It)</td><td>All Season</td><td>High</td><td>€169</td><td>H7404</td></tr>
+</tbody>
+</table>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  new DataTable('#fabrics', {
+    paging: false,
+    order: [],
+    layout: { topStart: 'search', topEnd: null, bottomStart: null, bottomEnd: null },
+  });
+});
+</script>

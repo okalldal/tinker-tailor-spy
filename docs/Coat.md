@@ -131,60 +131,74 @@ title: Coat
 
 ## Fabrics
 
-| Code | Name | Color | Pattern | Composition | Weight (g/m²) | Mill | Season | Stock | Coat Price | RTW Codes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 77501/73 | Mid Brown Alpaca Polyamide | Brown | Plain | 90% Baby Alpaca, 10% Polyamide | 570 | Ferla (It) | Spring/Summer | High | €799 | 0 |
-| 1548.20/27 | Mid Blue Pure Wrinkle-Free 4-Ply Wool | Blue | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | 0 |
-| 1548.20/21 | Light Blue Pure Wrinkle-Free 4-Ply Wool | Blue | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | 0 |
-| 1548.20/18 | Black Pure Wrinkle-Free 4-Ply Wool | Black | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | B2048, C2048, Loan, C2148, B2148 |
-| 1548.20/4 | Dark Grey Pure Wrinkle-Free 4-Ply Wool | Grey | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | B1891, W1548.20/4, Loan, C6854 |
-| 1548.20/9 | Mid Grey Pure Wrinkle-Free 4-Ply Wool | Grey | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | 0 |
-| L5403/424 | Light Grey Pure Cashmere | Grey | Plain | 100% Cashmere | 450 | Achille Pinto (It) | All Season | High | €799 | 0 |
-| 1548.20/8 | Light Grey Pure Wrinkle-Free 4-Ply Wool | Grey | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | Not defined, Loan, C6855 |
-| 1548.20/50 | Dark Green Pure Wrinkle-Free 4-Ply Wool | Green | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | 0 |
-| 1548.20/51 | Dark Green Pure Wrinkle-Free 4-Ply Wool | Green | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | C6853, B6853 |
-| 1548.20/53 | Dark Brown Pure Wrinkle-Free 4-Ply Wool | Brown | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | B6639, C6639, Loan |
-| 1548.20/43 | Mid Brown Pure Wrinkle-Free 4-Ply Wool | Brown | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | 0 |
-| 1548.20/41 | Mid Brown Pure Wrinkle-Free 4-Ply Wool | Brown | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | P7013 |
-| 10012.RGS.2 | Light Brown Pure Cashmere | Brown | Plain | 100% Cashmere | 410 | Rogna (It) | All Season | High | €799 | 0 |
-| 1548.20/65 | Sand Pure Wrinkle-Free 4-Ply Wool | Brown | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | C6934, B6934 |
-| 1548.20/52 | Off-White Pure Wrinkle-Free 4-Ply Wool | White | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | B6674, Loan |
-| 1548.20/54 | Burgundy Pure Wrinkle-Free 4-Ply Wool | Red | Plain | 100% Wool | 400 | Rogna (It) | All Season | High | €499 | 0 |
-| 90702/5 | Navy Herringbone Wool Cashmere | Blue | Herringbone | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | 0 |
-| 1142/218 | Navy Pure Wool | Blue | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | J980 |
-| 173501/1 | Navy Plain Wool Cashmere | Blue | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | J1012 |
-| 95201/4 | Navy Check Wool Cashmere | Blue | Check | 90% Wool, 10% Cashmere | 450 | E.Thomas (It) | Fall/Winter | High | €649 | J783 |
-| 10012.RGS/9 | Mid Blue Pure Cashmere | Blue | Plain | 100% Cashmere | 410 | Rogna (It) | Fall/Winter | High | €799 | 0 |
-| 81801/32 | Black Wool Cashmere | Black | Plain | 90% Wool, 10% Cashmere | 450 | E.Thomas (It) | Fall/Winter | High | €649 | J812 |
-| 90702/54 | Black Plain Wool Cashmere | Black | Herringbone | 90% Wool, 10% Cashmere | 500 | E.Thomas (It) | Fall/Winter | High | €649 | — |
-| G8961.20/18 | Black Pure Cashmere | Black | Plain | 100% Cashmere | 450 | Rogna (It) | Fall/Winter | High | €799 | J1009 |
-| 1142/900 | Black Pure Wool | Black | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | 0 |
-| 6461.20/287 | Dark Grey Llama Wool | Grey | Plain | 60% Llama Wool, 40% Wool | 640 | Piacenza (It) | Fall/Winter | High | €799 | J920 |
-| 1142/910 | Dark Grey Pure Wool | Grey | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | J460 |
-| 88031.10/267 | Dark Grey Pure Cashmere | Grey | Plain | 100% Cashmere | 440 | Colombo (It) | Fall/Winter | High | €799 | 0 |
-| 173501/58 | Dark Grey Wool Cashmere | Grey | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | — |
-| 173501/199 | Mid Grey Wool Cashmere | Grey | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | J1021 |
-| 1142/980 | Light Grey Pure Wool | Grey | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | J845 |
-| 10012.RGS/13 | Light Grey Circular Pure Cashmere | Grey | Plain | 100% Cashmere | 410 | Rogna (It) | Fall/Winter | High | €799 | J834 |
-| 202.501/1 | Light Grey Pure Wool | Grey | Plain | 100% Wool | 560 | Vitale Barberis Canonico (It) | Fall/Winter | High | €549 | 0 |
-| 81801/1 | Light Grey Wool Cashmere | Grey | Plain | 90% Wool, 10% Cashmere | 450 | E.Thomas (It) | Fall/Winter | High | €649 | 0 |
-| 173501/57 | Light Grey Wool Cashmere | Grey | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | — |
-| 1142/9450 | Light Green Plain Pure Wool | Green | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | J1020 |
-| 173501/429 | Green Wool Cashmere | Green | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | J1078 |
-| 10012.RGS/8 | Mid Green Pure Cashmere | Green | Plain | 100% Cashmere | 410 | Rogna (It) | Fall/Winter | High | €799 | 0 |
-| 901801/718 | Mid Green Wool Cashmere | Green | Plain | 90% Wool, 10% Cashmere | 450 | E.Thomas (It) | Fall/Winter | High | €649 | 0 |
-| 899.601/5316 | Mid Green Pure S120's Wool Flannel | Green | Plain | 100% Wool | 270 | Vitale Barberis Canonico (It) | Fall/Winter | High | €549 | 0 |
-| 1142/647 | Mid Green Pure Wool | Green | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | J835 |
-| 77001/9321 | Light Green Alpaca Wool | Green | Plain | 90% Alpaca, 10% Polyamide | 570 | Ferla (It) | Fall/Winter | High | €799 | J948 |
-| 1142/31 | Light Brown Pure Wool | Brown | Plain | 100% Wool | 420 | Longda (Cn) | Fall/Winter | High | €479 | — |
-| C401821/B434 | Light Brown Plain Pure Wool | Brown | Plain | 100% Wool | 590 | Casentino (It) | Fall/Winter | High | €549 | J962 |
-| 572001/1 | Light Brown Check Alpaca Wool | Brown | Check | 45% Alpaca, 45% Wool, 10% Polyamide | 570 | Ferla (It) | Fall/Winter | High | €799 | 0 |
-| 202.501/44 | Light Brown Pure Wool | Brown | Plain | 100% Wool | 560 | Vitale Barberis Canonico (It) | Fall/Winter | High | €549 | 0 |
-| 6754.20/29 | Light Brown Pure Camel | Brown | Plain | 100% Camel | 550 | Piacenza (It) | Fall/Winter | High | €799 | J917 |
-| 90702/155 | Light Brown Herringbone Wool Cashmere | Brown | Herringbone | 93% Wool, 7% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | 0 |
-| G8925.20/1 | Mid Brown Pure Camel | Brown | Plain | 100% Camel | 440 | Rogna (It) | Fall/Winter | High | €799 | J1665, J1014 |
-| 1500.1/9197 | Mid Brown Pure Cashmere | Brown | Plain | 100% Cashmere | 360 | Rogna (It) | Fall/Winter | High | €799 | BW304 |
-| 173501/46 | Light Brown Plain Wool Cashmere | Brown | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | J1011 |
-| 90702/38 | Light Grey Herringbone Wool Cashmere | Grey | Herringbone | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | 0 |
-| 173501/36 | Black Plain Wool Cashmere | Black | Plain | 90% Wool, 10% Cashmere | 490 | E.Thomas (It) | Fall/Winter | High | €649 | J1010 |
-| 88031/0091 | Black Pure Cashmere | Black | Plain | 100% Cashmere | 440 | Colombo (It) | Fall/Winter | High | €799 | 0 |
+<table id="fabrics" class="fabric-table display">
+<thead><tr>
+<th>Code</th><th>Name</th><th>Color</th><th>Pattern</th><th>Composition</th><th>Weight (g/m²)</th><th>Mill</th><th>Season</th><th>Stock</th><th>Coat Price</th><th>RTW Codes</th>
+</tr></thead>
+<tbody>
+<tr><td>77501/73</td><td>Mid Brown Alpaca Polyamide</td><td>Brown</td><td>Plain</td><td>90% Baby Alpaca, 10% Polyamide</td><td>570</td><td>Ferla (It)</td><td>Spring/Summer</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>1548.20/27</td><td>Mid Blue Pure Wrinkle-Free 4-Ply Wool</td><td>Blue</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>0</td></tr>
+<tr><td>1548.20/21</td><td>Light Blue Pure Wrinkle-Free 4-Ply Wool</td><td>Blue</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>0</td></tr>
+<tr><td>1548.20/18</td><td>Black Pure Wrinkle-Free 4-Ply Wool</td><td>Black</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>B2048, C2048, Loan, C2148, B2148</td></tr>
+<tr><td>1548.20/4</td><td>Dark Grey Pure Wrinkle-Free 4-Ply Wool</td><td>Grey</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>B1891, W1548.20/4, Loan, C6854</td></tr>
+<tr><td>1548.20/9</td><td>Mid Grey Pure Wrinkle-Free 4-Ply Wool</td><td>Grey</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>0</td></tr>
+<tr><td>L5403/424</td><td>Light Grey Pure Cashmere</td><td>Grey</td><td>Plain</td><td>100% Cashmere</td><td>450</td><td>Achille Pinto (It)</td><td>All Season</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>1548.20/8</td><td>Light Grey Pure Wrinkle-Free 4-Ply Wool</td><td>Grey</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>Not defined, Loan, C6855</td></tr>
+<tr><td>1548.20/50</td><td>Dark Green Pure Wrinkle-Free 4-Ply Wool</td><td>Green</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>0</td></tr>
+<tr><td>1548.20/51</td><td>Dark Green Pure Wrinkle-Free 4-Ply Wool</td><td>Green</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>C6853, B6853</td></tr>
+<tr><td>1548.20/53</td><td>Dark Brown Pure Wrinkle-Free 4-Ply Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>B6639, C6639, Loan</td></tr>
+<tr><td>1548.20/43</td><td>Mid Brown Pure Wrinkle-Free 4-Ply Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>0</td></tr>
+<tr><td>1548.20/41</td><td>Mid Brown Pure Wrinkle-Free 4-Ply Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>P7013</td></tr>
+<tr><td>10012.RGS.2</td><td>Light Brown Pure Cashmere</td><td>Brown</td><td>Plain</td><td>100% Cashmere</td><td>410</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>1548.20/65</td><td>Sand Pure Wrinkle-Free 4-Ply Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>C6934, B6934</td></tr>
+<tr><td>1548.20/52</td><td>Off-White Pure Wrinkle-Free 4-Ply Wool</td><td>White</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>B6674, Loan</td></tr>
+<tr><td>1548.20/54</td><td>Burgundy Pure Wrinkle-Free 4-Ply Wool</td><td>Red</td><td>Plain</td><td>100% Wool</td><td>400</td><td>Rogna (It)</td><td>All Season</td><td>High</td><td>€499</td><td>0</td></tr>
+<tr><td>90702/5</td><td>Navy Herringbone Wool Cashmere</td><td>Blue</td><td>Herringbone</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>0</td></tr>
+<tr><td>1142/218</td><td>Navy Pure Wool</td><td>Blue</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>J980</td></tr>
+<tr><td>173501/1</td><td>Navy Plain Wool Cashmere</td><td>Blue</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J1012</td></tr>
+<tr><td>95201/4</td><td>Navy Check Wool Cashmere</td><td>Blue</td><td>Check</td><td>90% Wool, 10% Cashmere</td><td>450</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J783</td></tr>
+<tr><td>10012.RGS/9</td><td>Mid Blue Pure Cashmere</td><td>Blue</td><td>Plain</td><td>100% Cashmere</td><td>410</td><td>Rogna (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>81801/32</td><td>Black Wool Cashmere</td><td>Black</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>450</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J812</td></tr>
+<tr><td>90702/54</td><td>Black Plain Wool Cashmere</td><td>Black</td><td>Herringbone</td><td>90% Wool, 10% Cashmere</td><td>500</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>—</td></tr>
+<tr><td>G8961.20/18</td><td>Black Pure Cashmere</td><td>Black</td><td>Plain</td><td>100% Cashmere</td><td>450</td><td>Rogna (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>J1009</td></tr>
+<tr><td>1142/900</td><td>Black Pure Wool</td><td>Black</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>0</td></tr>
+<tr><td>6461.20/287</td><td>Dark Grey Llama Wool</td><td>Grey</td><td>Plain</td><td>60% Llama Wool, 40% Wool</td><td>640</td><td>Piacenza (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>J920</td></tr>
+<tr><td>1142/910</td><td>Dark Grey Pure Wool</td><td>Grey</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>J460</td></tr>
+<tr><td>88031.10/267</td><td>Dark Grey Pure Cashmere</td><td>Grey</td><td>Plain</td><td>100% Cashmere</td><td>440</td><td>Colombo (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>173501/58</td><td>Dark Grey Wool Cashmere</td><td>Grey</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>—</td></tr>
+<tr><td>173501/199</td><td>Mid Grey Wool Cashmere</td><td>Grey</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J1021</td></tr>
+<tr><td>1142/980</td><td>Light Grey Pure Wool</td><td>Grey</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>J845</td></tr>
+<tr><td>10012.RGS/13</td><td>Light Grey Circular Pure Cashmere</td><td>Grey</td><td>Plain</td><td>100% Cashmere</td><td>410</td><td>Rogna (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>J834</td></tr>
+<tr><td>202.501/1</td><td>Light Grey Pure Wool</td><td>Grey</td><td>Plain</td><td>100% Wool</td><td>560</td><td>Vitale Barberis Canonico (It)</td><td>Fall/Winter</td><td>High</td><td>€549</td><td>0</td></tr>
+<tr><td>81801/1</td><td>Light Grey Wool Cashmere</td><td>Grey</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>450</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>0</td></tr>
+<tr><td>173501/57</td><td>Light Grey Wool Cashmere</td><td>Grey</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>—</td></tr>
+<tr><td>1142/9450</td><td>Light Green Plain Pure Wool</td><td>Green</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>J1020</td></tr>
+<tr><td>173501/429</td><td>Green Wool Cashmere</td><td>Green</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J1078</td></tr>
+<tr><td>10012.RGS/8</td><td>Mid Green Pure Cashmere</td><td>Green</td><td>Plain</td><td>100% Cashmere</td><td>410</td><td>Rogna (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>901801/718</td><td>Mid Green Wool Cashmere</td><td>Green</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>450</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>0</td></tr>
+<tr><td>899.601/5316</td><td>Mid Green Pure S120&#x27;s Wool Flannel</td><td>Green</td><td>Plain</td><td>100% Wool</td><td>270</td><td>Vitale Barberis Canonico (It)</td><td>Fall/Winter</td><td>High</td><td>€549</td><td>0</td></tr>
+<tr><td>1142/647</td><td>Mid Green Pure Wool</td><td>Green</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>J835</td></tr>
+<tr><td>77001/9321</td><td>Light Green Alpaca Wool</td><td>Green</td><td>Plain</td><td>90% Alpaca, 10% Polyamide</td><td>570</td><td>Ferla (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>J948</td></tr>
+<tr><td>1142/31</td><td>Light Brown Pure Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>420</td><td>Longda (Cn)</td><td>Fall/Winter</td><td>High</td><td>€479</td><td>—</td></tr>
+<tr><td>C401821/B434</td><td>Light Brown Plain Pure Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>590</td><td>Casentino (It)</td><td>Fall/Winter</td><td>High</td><td>€549</td><td>J962</td></tr>
+<tr><td>572001/1</td><td>Light Brown Check Alpaca Wool</td><td>Brown</td><td>Check</td><td>45% Alpaca, 45% Wool, 10% Polyamide</td><td>570</td><td>Ferla (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>0</td></tr>
+<tr><td>202.501/44</td><td>Light Brown Pure Wool</td><td>Brown</td><td>Plain</td><td>100% Wool</td><td>560</td><td>Vitale Barberis Canonico (It)</td><td>Fall/Winter</td><td>High</td><td>€549</td><td>0</td></tr>
+<tr><td>6754.20/29</td><td>Light Brown Pure Camel</td><td>Brown</td><td>Plain</td><td>100% Camel</td><td>550</td><td>Piacenza (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>J917</td></tr>
+<tr><td>90702/155</td><td>Light Brown Herringbone Wool Cashmere</td><td>Brown</td><td>Herringbone</td><td>93% Wool, 7% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>0</td></tr>
+<tr><td>G8925.20/1</td><td>Mid Brown Pure Camel</td><td>Brown</td><td>Plain</td><td>100% Camel</td><td>440</td><td>Rogna (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>J1665, J1014</td></tr>
+<tr><td>1500.1/9197</td><td>Mid Brown Pure Cashmere</td><td>Brown</td><td>Plain</td><td>100% Cashmere</td><td>360</td><td>Rogna (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>BW304</td></tr>
+<tr><td>173501/46</td><td>Light Brown Plain Wool Cashmere</td><td>Brown</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J1011</td></tr>
+<tr><td>90702/38</td><td>Light Grey Herringbone Wool Cashmere</td><td>Grey</td><td>Herringbone</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>0</td></tr>
+<tr><td>173501/36</td><td>Black Plain Wool Cashmere</td><td>Black</td><td>Plain</td><td>90% Wool, 10% Cashmere</td><td>490</td><td>E.Thomas (It)</td><td>Fall/Winter</td><td>High</td><td>€649</td><td>J1010</td></tr>
+<tr><td>88031/0091</td><td>Black Pure Cashmere</td><td>Black</td><td>Plain</td><td>100% Cashmere</td><td>440</td><td>Colombo (It)</td><td>Fall/Winter</td><td>High</td><td>€799</td><td>0</td></tr>
+</tbody>
+</table>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  new DataTable('#fabrics', {
+    paging: false,
+    order: [],
+    layout: { topStart: 'search', topEnd: null, bottomStart: null, bottomEnd: null },
+  });
+});
+</script>

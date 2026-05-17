@@ -4,6 +4,7 @@
 One .md file per product type, written to docs/.
 """
 
+import html
 import json
 from pathlib import Path
 
@@ -82,36 +83,67 @@ def render_style_presets(styles: list, option_lookup: dict, option_values: dict,
     return lines
 
 
+def e(text: str) -> str:
+    """HTML-escape a string for safe table cell output."""
+    return html.escape(str(text))
+
+
 def render_fabric_table(
     fabric_sequence: list,
     fabric_list: dict,
     ct_labels: list[tuple[str, str]],
 ) -> list[str]:
-    price_cols = " | ".join(f"{label} Price" for _, label in ct_labels)
-    header = f"| Code | Name | Color | Pattern | Composition | Weight (g/m²) | Mill | Season | Stock | {price_cols} | RTW Codes |"
-    n_cols = 9 + len(ct_labels) + 1
-    separator = "| " + " | ".join(["---"] * n_cols) + " |"
-
-    lines = ["\n## Fabrics\n", header, separator]
+    price_headers = "".join(f"<th>{label} Price</th>" for _, label in ct_labels)
+    lines = [
+        "\n## Fabrics\n",
+        '<table id="fabrics" class="fabric-table display">',
+        "<thead><tr>",
+        "<th>Code</th><th>Name</th><th>Color</th><th>Pattern</th>"
+        "<th>Composition</th><th>Weight (g/m²)</th><th>Mill</th>"
+        f"<th>Season</th><th>Stock</th>{price_headers}<th>RTW Codes</th>",
+        "</tr></thead>",
+        "<tbody>",
+    ]
 
     for fid in fabric_sequence:
         fab = fabric_list.get(str(fid))
         if fab is None:
             continue
         prices = fab.get("prices", {}).get("configurationTypes", {})
-        price_cells = " | ".join(
-            f"€{prices[ct_id]}" if ct_id in prices else "—"
+        price_cells = "".join(
+            f"<td>€{prices[ct_id]}</td>" if ct_id in prices else "<td>—</td>"
             for ct_id, _ in ct_labels
         )
-        rtw = ", ".join(fab.get("rtwProductCodes") or []) or "—"
-        row = (
-            f"| {fab['code']} | {fab['name']} | {fab['colorName']} | {fab['dessinName']} "
-            f"| {fab['compositionText']} | {fab['weight']} | {fab['manufacturerName']} "
-            f"| {fab['seasonName']} | {fab['stockStatus'].capitalize()} "
-            f"| {price_cells} | {rtw} |"
+        rtw = e(", ".join(fab.get("rtwProductCodes") or []) or "—")
+        lines.append(
+            f"<tr>"
+            f"<td>{e(fab['code'])}</td>"
+            f"<td>{e(fab['name'])}</td>"
+            f"<td>{e(fab['colorName'])}</td>"
+            f"<td>{e(fab['dessinName'])}</td>"
+            f"<td>{e(fab['compositionText'])}</td>"
+            f"<td>{fab['weight']}</td>"
+            f"<td>{e(fab['manufacturerName'])}</td>"
+            f"<td>{e(fab['seasonName'])}</td>"
+            f"<td>{e(fab['stockStatus'].capitalize())}</td>"
+            f"{price_cells}"
+            f"<td>{rtw}</td>"
+            f"</tr>"
         )
-        lines.append(row)
 
+    lines += [
+        "</tbody>",
+        "</table>",
+        "<script>",
+        "document.addEventListener('DOMContentLoaded', function () {",
+        "  new DataTable('#fabrics', {",
+        "    paging: false,",
+        "    order: [],",
+        "    layout: { topStart: 'search', topEnd: null, bottomStart: null, bottomEnd: null },",
+        "  });",
+        "});",
+        "</script>",
+    ]
     return lines
 
 
