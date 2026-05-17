@@ -1,0 +1,1569 @@
+{
+  "defaultProduct": "TuxedoShirt",
+  "defaultCountryCode": "NL",
+  "defaultLanguage": "en",
+  "defaultClient": "onLine",
+  "defaultDeliveryPeriod": {
+    "minDurationInWeeks": 2,
+    "maxDurationInWeeks": 3
+  },
+  "fabricList": {
+    "2": {
+      "id": 2,
+      "code": "F344402.1",
+      "name": "White Royal Oxford Sea Island Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Sea Island Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Sea Island Cotton",
+      "weight": 116,
+      "stockStatus": "HIGH",
+      "imageName": "SF344402.1_23",
+      "layerImageName": "SF344402.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 249
+        },
+        "symbol": "€"
+      }
+    },
+    "51": {
+      "id": 51,
+      "code": "F3401638.1",
+      "name": "White Twill Egyptian Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Egyptian Cotton Easy Care",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 180,
+      "stockStatus": "HIGH",
+      "imageName": "SF3401638.1_23",
+      "layerImageName": "SF3401638.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H9356",
+        "H7006"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 189
+        },
+        "symbol": "€"
+      }
+    },
+    "404": {
+      "id": 404,
+      "code": "14900.0.109",
+      "name": "White Poplin Stretch",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Cotton Polyamide Elastane",
+      "seasonName": "All Season",
+      "manufacturerName": "Reggiani (It)",
+      "compositionText": "78% Cotton, 17% Polyamide, 5% Elastane",
+      "weight": 135,
+      "stockStatus": "HIGH",
+      "imageName": "S14900.0.109_23",
+      "layerImageName": "S14900.0.109",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H6682ESF",
+        "H7007"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 189
+        },
+        "symbol": "€"
+      }
+    },
+    "406": {
+      "id": 406,
+      "code": "Q6A.F3405816/1",
+      "name": "White Lyocell Silk",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Lyocell Silk",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "74% Lyocell, 26% Silk",
+      "weight": 113,
+      "stockStatus": "HIGH",
+      "imageName": "SF3405816.1_23",
+      "layerImageName": "SF3401635.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H6927"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 199
+        },
+        "symbol": "€"
+      }
+    },
+    "420": {
+      "id": 420,
+      "code": "A.F3405816/4490",
+      "name": "Black Lyocell Silk",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Lyocell Silk",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "74% Lyocell, 26% Silk",
+      "weight": 113,
+      "stockStatus": "HIGH",
+      "imageName": "SF3405816.4490_23",
+      "layerImageName": "SF3405816.4490",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H6926"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 199
+        },
+        "symbol": "€"
+      }
+    },
+    "443": {
+      "id": 443,
+      "code": "F356239.4490",
+      "name": "Black Poplin Egyptian Cotton",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Egyptian Cotton Easy Care",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 190,
+      "stockStatus": "HIGH",
+      "imageName": "SF356239.4490_23",
+      "layerImageName": "SF356239.4490",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H6887"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 189
+        },
+        "symbol": "€"
+      }
+    },
+    "445": {
+      "id": 445,
+      "code": "F344018.4049",
+      "name": "Black Poplin Stretch",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Cotton Polyamide Elastane",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "78% Cotton, 18% Polyamide, 4% Elastane",
+      "weight": 180,
+      "stockStatus": "HIGH",
+      "imageName": "SF344018.4049_23",
+      "layerImageName": "SF344018.4049",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 189
+        },
+        "symbol": "€"
+      }
+    },
+    "455": {
+      "id": 455,
+      "code": "F397166/1",
+      "name": "White Herringbone Cotton",
+      "colorName": "White",
+      "dessinName": "Herringbone",
+      "qualityName": "Egyptian Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 135,
+      "stockStatus": "HIGH",
+      "imageName": "SF397166-1_23",
+      "layerImageName": "SF397166-1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 169
+        },
+        "symbol": "€"
+      }
+    },
+    "544": {
+      "id": 544,
+      "code": "F3408087.1",
+      "name": "White Herringbone Cotton",
+      "colorName": "White",
+      "dessinName": "Herringbone",
+      "qualityName": "Egyptian Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 205,
+      "stockStatus": "HIGH",
+      "imageName": "SF3408087.1_23",
+      "layerImageName": "SF3408087.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 169
+        },
+        "symbol": "€"
+      }
+    },
+    "601": {
+      "id": 601,
+      "code": "F359266.1",
+      "name": "White Herringbone Sea Island Cotton",
+      "colorName": "White",
+      "dessinName": "Herringbone",
+      "qualityName": "Sea Island Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Sea Island Cotton",
+      "weight": 126,
+      "stockStatus": "HIGH",
+      "imageName": "SF359266.1_23",
+      "layerImageName": "SF359266.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 249
+        },
+        "symbol": "€"
+      }
+    },
+    "759": {
+      "id": 759,
+      "code": "F344400.1",
+      "name": "White Twill Sea Island Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Sea Island Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Sea Island Cotton",
+      "weight": 114,
+      "stockStatus": "HIGH",
+      "imageName": "SF344400.1_23",
+      "layerImageName": "SF344400.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 249
+        },
+        "symbol": "€"
+      }
+    },
+    "841": {
+      "id": 841,
+      "code": "F356239.1",
+      "name": "White Poplin Egyptian Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Egyptian Cotton Easy Care",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 190,
+      "stockStatus": "HIGH",
+      "imageName": "SF356239.1_23",
+      "layerImageName": "SF356239.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H9256"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 189
+        },
+        "symbol": "€"
+      }
+    },
+    "946": {
+      "id": 946,
+      "code": "F3408254.1",
+      "name": "White Poplin Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Egyptian Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 165,
+      "stockStatus": "HIGH",
+      "imageName": "SF3408254.1_23",
+      "layerImageName": "SF3408254.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H9095",
+        "H9096"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 169
+        },
+        "symbol": "€"
+      }
+    },
+    "992": {
+      "id": 992,
+      "code": "F3195620/1",
+      "name": "White Royal Oxford Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Egyptian Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 205,
+      "stockStatus": "HIGH",
+      "imageName": "SF3407480.1_23",
+      "layerImageName": "SF3407480.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H6755"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 169
+        },
+        "symbol": "€"
+      }
+    },
+    "1196": {
+      "id": 1196,
+      "code": "F397278.1",
+      "name": "White Twill Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Egyptian Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "100% Egyptian Cotton",
+      "weight": 190,
+      "stockStatus": "HIGH",
+      "imageName": "SF397278.1_23",
+      "layerImageName": "SF397278.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H9390ESF",
+        "H7205",
+        "H7003"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 169
+        },
+        "symbol": "€"
+      }
+    },
+    "1347": {
+      "id": 1347,
+      "code": "F340782.1",
+      "name": "White Poplin Sea Island Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Sea Island Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Thomas Mason (It)",
+      "compositionText": "100% Sea Island Cotton",
+      "weight": 112,
+      "stockStatus": "HIGH",
+      "imageName": "SF340782.1_23",
+      "layerImageName": "SF340782.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 249
+        },
+        "symbol": "€"
+      }
+    },
+    "1351": {
+      "id": 1351,
+      "code": "F3405940.1",
+      "name": "White Twill Pure Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Albini (It)",
+      "compositionText": "100% Cotton",
+      "weight": 155,
+      "stockStatus": "HIGH",
+      "imageName": "SF3405940.1_23",
+      "layerImageName": "SF3405940.1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H6393"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 169
+        },
+        "symbol": "€"
+      }
+    },
+    "1584": {
+      "id": 1584,
+      "code": "91724.5554.00",
+      "name": "White Twill Wrinkle-Free Pima Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Pima Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Weba (Ch)",
+      "compositionText": "100% Cotton",
+      "weight": 126,
+      "stockStatus": "HIGH",
+      "imageName": "S91724.5554.00_23",
+      "layerImageName": "S91724.5554.00",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H7000"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 149
+        },
+        "symbol": "€"
+      }
+    },
+    "8925": {
+      "id": 8925,
+      "code": "KENT/1000",
+      "name": "White Poplin Egyptian Cotton",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cotton",
+      "seasonName": "All Season",
+      "manufacturerName": "Testa Spa (It)",
+      "compositionText": "100% Cotton",
+      "weight": 120,
+      "stockStatus": "HIGH",
+      "imageName": "SKENT-1000_23",
+      "layerImageName": "SKENT-1000",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "H7011"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "4": 129
+        },
+        "symbol": "€"
+      }
+    }
+  },
+  "fabricSequence": [
+    1196,
+    455,
+    544,
+    992,
+    8925,
+    946,
+    1351,
+    406,
+    420,
+    1347,
+    759,
+    2,
+    601,
+    1584,
+    51,
+    841,
+    443,
+    404,
+    445
+  ],
+  "fabricFilters": [
+    {
+      "id": 1,
+      "type": "color",
+      "displayName": "Color",
+      "filterAttribute": "colorName",
+      "items": [
+        {
+          "id": 17,
+          "displayName": "White",
+          "value": "#E7E7E7"
+        },
+        {
+          "id": 21,
+          "displayName": "Black",
+          "value": "#000000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "checkbox",
+      "displayName": "Season",
+      "filterAttribute": "seasonName",
+      "items": [
+        {
+          "id": 1,
+          "displayName": "All Season"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "checkbox",
+      "displayName": "Design",
+      "filterAttribute": "dessinName",
+      "items": [
+        {
+          "id": 4,
+          "displayName": "Herringbone"
+        },
+        {
+          "id": 15,
+          "displayName": "Plain"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "checkbox",
+      "displayName": "Material",
+      "filterAttribute": "qualityName",
+      "items": [
+        {
+          "id": 2,
+          "displayName": "Cotton",
+          "subItems": [
+            {
+              "id": 106,
+              "displayName": "Cotton Polyamide Elastane"
+            },
+            {
+              "id": 104,
+              "displayName": "Egyptian Cotton"
+            },
+            {
+              "id": 121,
+              "displayName": "Egyptian Cotton Easy Care"
+            },
+            {
+              "id": 10,
+              "displayName": "Pima Cotton"
+            },
+            {
+              "id": 125,
+              "displayName": "Pure Cotton"
+            },
+            {
+              "id": 105,
+              "displayName": "Sea Island Cotton"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "displayName": "Silk",
+          "subItems": [
+            {
+              "id": 103,
+              "displayName": "Lyocell Silk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "checkbox",
+      "displayName": "Mill",
+      "filterAttribute": "manufacturerName",
+      "items": [
+        {
+          "id": 70,
+          "displayName": "Albini (It)"
+        },
+        {
+          "id": 1,
+          "displayName": "Reggiani (It)"
+        },
+        {
+          "id": 49,
+          "displayName": "Tessitura Monti (It)"
+        },
+        {
+          "id": 35,
+          "displayName": "Testa Spa (It)"
+        },
+        {
+          "id": 45,
+          "displayName": "Thomas Mason (It)"
+        },
+        {
+          "id": 62,
+          "displayName": "Weba (Ch)"
+        }
+      ]
+    }
+  ],
+  "fabricPreFilters": null,
+  "options": {
+    "4": {
+      "items": [
+        {
+          "id": 37,
+          "type": "OPTION",
+          "code": "shirt_collar",
+          "name": "Collar",
+          "imageName": "shirt_collar",
+          "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": false,
+          "zoomPosition": 2,
+          "rotationPosition": 0,
+          "optionValues": [
+            217,
+            213,
+            214
+          ]
+        },
+        {
+          "id": 49,
+          "type": "OPTION",
+          "code": "shirt_placket_style",
+          "name": "Placket",
+          "imageName": "shirt_placket_style",
+          "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": false,
+          "zoomPosition": 5,
+          "rotationPosition": 0,
+          "optionValues": [
+            382,
+            385,
+            386
+          ]
+        },
+        {
+          "id": 13,
+          "type": "OPTION",
+          "code": "shirt_button",
+          "name": "Buttons",
+          "imageName": "shirt_button",
+          "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+          "appendCode": true,
+          "showDescription": false,
+          "hasSearch": true,
+          "isAdvanced": false,
+          "zoomPosition": 0,
+          "rotationPosition": 0,
+          "optionValues": [
+            55,
+            47,
+            59,
+            50
+          ]
+        },
+        {
+          "id": 17,
+          "type": "OPTION",
+          "code": "shirt_cuff",
+          "name": "Cuff",
+          "imageName": "shirt_cuff",
+          "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": false,
+          "zoomPosition": 9,
+          "rotationPosition": 0,
+          "optionValues": [
+            104,
+            108,
+            103,
+            99,
+            100
+          ]
+        },
+        {
+          "type": "MONOGRAM",
+          "id": 100435,
+          "name": "Monogram",
+          "imageName": "MOI1N",
+          "imageUrlTemplate": "custommade/thumbs2/monogramStyle/jacket",
+          "maxAllowedNumberOfPositions": 1,
+          "initialsMaxLength": 8,
+          "isAdvanced": false,
+          "colors": {
+            "14": {
+              "id": 14,
+              "name": "Gold",
+              "imageName": "MOC18",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 15
+            },
+            "15": {
+              "id": 15,
+              "name": "Fuchsia  ",
+              "imageName": "MOC11",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 10
+            },
+            "16": {
+              "id": 16,
+              "name": "Off-white ",
+              "imageName": "MOC2",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 1
+            },
+            "17": {
+              "id": 17,
+              "name": "Black",
+              "imageName": "MOC6",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 17
+            },
+            "19": {
+              "id": 19,
+              "name": "Lilac ",
+              "imageName": "MOC13",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 8
+            },
+            "20": {
+              "id": 20,
+              "name": "White",
+              "imageName": "MOC1",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 0
+            },
+            "21": {
+              "id": 21,
+              "name": "Dark Blue",
+              "imageName": "MOC4",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 6
+            },
+            "22": {
+              "id": 22,
+              "name": "Dark Grey",
+              "imageName": "MOC7",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 3
+            },
+            "23": {
+              "id": 23,
+              "name": "Dark Green",
+              "imageName": "MOC16",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 13
+            },
+            "24": {
+              "id": 24,
+              "name": "Sand",
+              "imageName": "MOC14",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 14
+            },
+            "26": {
+              "id": 26,
+              "name": "Royal Blue",
+              "imageName": "MOC5",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 5
+            },
+            "27": {
+              "id": 27,
+              "name": "Silver ",
+              "imageName": "MOC17",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 2
+            },
+            "28": {
+              "id": 28,
+              "name": "Light Blue",
+              "imageName": "MOC3",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 2
+            },
+            "32": {
+              "id": 32,
+              "name": "Light Green",
+              "imageName": "MOC15",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 12
+            },
+            "33": {
+              "id": 33,
+              "name": "Dark Purple",
+              "imageName": "MOC12",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 9
+            },
+            "34": {
+              "id": 34,
+              "name": "Dark Brown",
+              "imageName": "MOC8",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 16
+            },
+            "35": {
+              "id": 35,
+              "name": "Light Pink",
+              "imageName": "MOC10",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 7
+            }
+          },
+          "fontTypes": {
+            "1": {
+              "id": 1,
+              "name": "Script",
+              "imageName": "MOI2N",
+              "imageUrlTemplate": "custommade/thumbs2/monogramStyle/jacket"
+            },
+            "2": {
+              "id": 2,
+              "name": "Block",
+              "imageName": "MOI1N",
+              "imageUrlTemplate": "custommade/thumbs2/monogramStyle/jacket"
+            }
+          },
+          "positions": {
+            "3": {
+              "id": 3,
+              "name": "Body Bottom",
+              "imageName": "MOL3",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "4": {
+              "id": 4,
+              "name": "Bottom left cuff",
+              "imageName": "MOL1",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "6": {
+              "id": 6,
+              "name": "Bottom right cuff",
+              "imageName": "MOL2",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "9": {
+              "id": 9,
+              "name": "Inside Collarstand",
+              "imageName": "MOL7",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "13": {
+              "id": 13,
+              "name": "Top left cuff",
+              "imageName": "MOL9",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "16": {
+              "id": 16,
+              "name": "Top right cuff",
+              "imageName": "MOL10",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "25": {
+              "id": 25,
+              "name": "Center Cuff Left",
+              "imageName": "MOL11",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "28": {
+              "id": 28,
+              "name": "Center Cuff Right",
+              "imageName": "MOL13",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "30": {
+              "id": 30,
+              "name": "Inside Placket",
+              "imageName": "MOL12",
+              "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail"
+            }
+          }
+        },
+        {
+          "id": 84,
+          "type": "OPTION",
+          "code": "shirt_handmade_gathers",
+          "name": "Handmade gathers",
+          "imageName": "Handmade Gathers",
+          "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 3,
+          "rotationPosition": 0,
+          "optionValues": [
+            712,
+            711,
+            710,
+            1077
+          ]
+        },
+        {
+          "id": 99,
+          "type": "OPTION",
+          "code": "shirt_hem_shape",
+          "name": "Hem shape",
+          "imageName": "shirt_hem_shape",
+          "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 8,
+          "rotationPosition": 0,
+          "optionValues": [
+            803
+          ]
+        }
+      ]
+    }
+  },
+  "optionValues": {
+    "47": {
+      "id": 47,
+      "optionId": 13,
+      "code": "B03",
+      "name": "White Flat",
+      "description": "White Flat",
+      "configurationTypeId": 4,
+      "imageName": "B03.2",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "BC3",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "50": {
+      "id": 50,
+      "optionId": 13,
+      "code": "B17",
+      "name": "Black",
+      "description": "Black",
+      "configurationTypeId": 4,
+      "imageName": "B17.2",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "ZSSZ9260",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "55": {
+      "id": 55,
+      "optionId": 13,
+      "code": "BC13",
+      "name": "Tuxedo Stud Black",
+      "description": "Tuxedo Stud Black",
+      "configurationTypeId": 4,
+      "imageName": "BC13",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "BLACK",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "59": {
+      "id": 59,
+      "optionId": 13,
+      "code": "BC17",
+      "name": "Tuxedo Stud White Mother Of Pearl",
+      "description": "Tuxedo Stud White Mother Of Pearl",
+      "configurationTypeId": 4,
+      "imageName": "BC17",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "WHITE",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "99": {
+      "id": 99,
+      "optionId": 17,
+      "code": "CDR3",
+      "name": "Double Cuff Round",
+      "description": "Double cuffs feature fabric folded back onto itself which must be fastened with cufflinks.",
+      "configurationTypeId": 4,
+      "imageName": "CDR3",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CDR3",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "100": {
+      "id": 100,
+      "optionId": 17,
+      "code": "CDS4",
+      "name": "Double Cuff Square",
+      "description": "Double cuffs feature fabric folded back onto itself which must be fastened with cufflinks.",
+      "configurationTypeId": 4,
+      "imageName": "CDS4",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CDS4",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "103": {
+      "id": 103,
+      "optionId": 17,
+      "code": "CSBA",
+      "name": "Single Boat Adjustable",
+      "description": "The single-boat adjustable cuff has a practical second button running parallel to the cuff edge, allowing you to adjust the tightness of the cuff around the wrist, or open it altogether for a casual appeal. ",
+      "configurationTypeId": 4,
+      "imageName": "CSBA",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSBA",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "104": {
+      "id": 104,
+      "optionId": 17,
+      "code": "CSR1",
+      "name": "Single Cuff One Button",
+      "description": "A classic single cuff with a single button closure and rounded edges.",
+      "configurationTypeId": 4,
+      "imageName": "CSR1",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSR1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "108": {
+      "id": 108,
+      "optionId": 17,
+      "code": "CSS2",
+      "name": "Single Chisel",
+      "description": "Formal & business-ready squared cuffs feature a broad angled closure.",
+      "configurationTypeId": 4,
+      "imageName": "CSS2",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSS2",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "213": {
+      "id": 213,
+      "optionId": 37,
+      "code": "CCC1",
+      "name": "Classic",
+      "description": "This versatile collar features a short spread and classic sharp points.",
+      "configurationTypeId": 4,
+      "imageName": "CCC1",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CCC1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "214": {
+      "id": 214,
+      "optionId": 37,
+      "code": "CCWS2",
+      "name": "High Widespread",
+      "description": "Like the classic wide collar, this style offers ample space between subtly outwardly oriented points but carries a slightly shorter collar length.",
+      "configurationTypeId": 4,
+      "imageName": "CCWS2",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CCWS2",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "217": {
+      "id": 217,
+      "optionId": 37,
+      "code": "MTCT9",
+      "name": "Wing Tip",
+      "description": "The classic black-tie style, tuxedo shirt collars typically feature small, spread points that allow for a bowtie to be shown fully and unencumbered.\t",
+      "configurationTypeId": 4,
+      "imageName": "MTCT9",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "MTCT9",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "382": {
+      "id": 382,
+      "optionId": 49,
+      "code": "PSHP4",
+      "name": "Hidden Button Placket",
+      "description": "Often found on tux shirts, hidden placket features a layer of fabric folded over to hide the buttons.",
+      "configurationTypeId": 4,
+      "imageName": "PSHP4",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "TPSHP4",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "385": {
+      "id": 385,
+      "optionId": 49,
+      "code": "TPSTPIQ1",
+      "name": "Pique Bib",
+      "description": "Finished in a special pique weave, these smart tuxedo shirts bring the perfect blend of traditional elegance and subtly textured style to any black-tie look.",
+      "configurationTypeId": 4,
+      "imageName": "TPSTPQ1",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "TPSTPQ1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "386": {
+      "id": 386,
+      "optionId": 49,
+      "code": "TPSTPL2",
+      "name": "Pleated Bib",
+      "description": "Pleated bib —a narrow textured ribbed design—brings the perfect blend of modern elegance and subtly textured style to any black-tie look.",
+      "configurationTypeId": 4,
+      "imageName": "TPSTPL2",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "TPSTPL2",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "710": {
+      "id": 710,
+      "optionId": 84,
+      "code": "SSLSP2",
+      "name": "Pleated Shoulder & Cuff",
+      "description": "Pleated sleeves feature small pleats along the shoulder and cuff—ideal for more formal or business styles.",
+      "configurationTypeId": 4,
+      "imageName": "SSLSP2",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "SSLSP2",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "711": {
+      "id": 711,
+      "optionId": 84,
+      "code": "SSLSP4",
+      "name": "Pleated Shoulder",
+      "description": "Pleated sleeves feature small pleats along the shoulder—ideal for more formal or business styles.",
+      "configurationTypeId": 4,
+      "imageName": "SSLSP4",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "SSLSP4",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "712": {
+      "id": 712,
+      "optionId": 84,
+      "code": "SSLSS1",
+      "name": "No Handmade Gathers",
+      "description": "A classic sleeve creates a smooth, streamlined arm that work well for any style and occasion.",
+      "configurationTypeId": 4,
+      "imageName": "SSLSS1",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "SSLSS1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "803": {
+      "id": 803,
+      "optionId": 99,
+      "code": "HST",
+      "name": "Standard",
+      "description": "A formal style characterized by extended front and back hems, tailed shirts are made to be easily tucked.",
+      "configurationTypeId": 4,
+      "imageName": "HST",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "HST",
+      "measurementTag": "HemFormal",
+      "additionalPrice": null
+    },
+    "1077": {
+      "id": 1077,
+      "optionId": 84,
+      "code": "SSLSP8",
+      "name": "Pleated Shoulder, Cuff & Back",
+      "description": "Small pleats along the shoulder, cuff & back—ideal for more formal or business styles.",
+      "configurationTypeId": 4,
+      "imageName": "SSLSP8",
+      "imageUrlTemplate": "shirtconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "SSLSP2",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    }
+  },
+  "translations": {
+    "total": "Total",
+    "weekDelivery": "week delivery",
+    "save": "Save",
+    "saveDesign": "Save design"
+  },
+  "stylePresets": {
+    "configurationTypes": {
+      "4": {
+        "styles": [
+          {
+            "id": 68,
+            "name": "Widespread Piqué ",
+            "description": "A well-balanced style with a pique bib and widespread collar.",
+            "presetOptions": [
+              {
+                "optionId": 37,
+                "optionValueId": 214
+              },
+              {
+                "optionId": 49,
+                "optionValueId": 385
+              },
+              {
+                "optionId": 99,
+                "optionValueId": 803
+              },
+              {
+                "optionId": 84,
+                "optionValueId": 712
+              },
+              {
+                "optionId": 17,
+                "optionValueId": 99
+              }
+            ]
+          },
+          {
+            "id": 70,
+            "name": "Hidden Button",
+            "description": "for a sleek & streamlined look. Features a hidden button placket and widespread collar.",
+            "presetOptions": [
+              {
+                "optionId": 37,
+                "optionValueId": 214
+              },
+              {
+                "optionId": 49,
+                "optionValueId": 382
+              },
+              {
+                "optionId": 99,
+                "optionValueId": 803
+              },
+              {
+                "optionId": 84,
+                "optionValueId": 712
+              },
+              {
+                "optionId": 17,
+                "optionValueId": 99
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "name": "Wing Tip Plissé",
+            "description": "A classic style featuring a pleated bib and wing tip collar allowing the bowtie to be shown fully",
+            "presetOptions": [
+              {
+                "optionId": 37,
+                "optionValueId": 217
+              },
+              {
+                "optionId": 49,
+                "optionValueId": 386
+              },
+              {
+                "optionId": 99,
+                "optionValueId": 803
+              },
+              {
+                "optionId": 84,
+                "optionValueId": 712
+              },
+              {
+                "optionId": 17,
+                "optionValueId": 99
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "businessRules": {
+    "fabrics": {
+      "406": {
+        "hide": {
+          "options": [],
+          "optionValues": [
+            386,
+            385
+          ],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": []
+        }
+      },
+      "420": {
+        "hide": {
+          "options": [],
+          "optionValues": [
+            385
+          ],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": []
+        }
+      },
+      "443": {
+        "hide": {
+          "options": [],
+          "optionValues": [
+            711,
+            710
+          ],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            382
+          ]
+        }
+      },
+      "445": {
+        "hide": {
+          "options": [],
+          "optionValues": [
+            710,
+            711,
+            385
+          ],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": []
+        }
+      }
+    },
+    "configurationTypes": {
+      "4": {
+        "optionValues": {
+          "382": {
+            "hide": {
+              "options": [],
+              "optionValues": {
+                "4": [
+                  59,
+                  55
+                ]
+              },
+              "monogramColors": [],
+              "monogramPositions": []
+            },
+            "select": {
+              "optionValues": {}
+            }
+          },
+          "385": {
+            "hide": {
+              "options": [],
+              "optionValues": {
+                "4": [
+                  47,
+                  50
+                ]
+              },
+              "monogramColors": [],
+              "monogramPositions": []
+            },
+            "select": {
+              "optionValues": {
+                "4": [
+                  55
+                ]
+              }
+            }
+          },
+          "386": {
+            "hide": {
+              "options": [],
+              "optionValues": {
+                "4": [
+                  50,
+                  47
+                ]
+              },
+              "monogramColors": [],
+              "monogramPositions": []
+            },
+            "select": {
+              "optionValues": {
+                "4": [
+                  55
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "defaultSelectedFabric": {
+    "id": 1196,
+    "code": "F397278.1",
+    "name": "White Twill Cotton",
+    "colorName": "White",
+    "dessinName": "Plain",
+    "qualityName": "Egyptian Cotton",
+    "seasonName": "All Season",
+    "manufacturerName": "Albini (It)",
+    "compositionText": "100% Egyptian Cotton",
+    "weight": 190,
+    "stockStatus": "HIGH",
+    "imageName": "SF397278.1_23",
+    "layerImageName": "SF397278.1",
+    "bookletsAndSliders": null,
+    "rtwProductCodes": [
+      "H9390ESF",
+      "H7205",
+      "H7003"
+    ],
+    "prices": {
+      "code": "EUR",
+      "configurationTypes": {
+        "4": 169
+      },
+      "symbol": "€"
+    }
+  },
+  "defaultSection": "fabric",
+  "defaultSelectedOptions": {
+    "4": {
+      "13": 55,
+      "17": 99,
+      "37": 214,
+      "49": 386,
+      "84": 712,
+      "99": 803
+    }
+  },
+  "defaultHiddenOptionsAndValues": {
+    "optionsPerConfiguration": {
+      "4": []
+    },
+    "optionValuesPerConfiguration": {
+      "4": [
+        50,
+        47
+      ]
+    },
+    "monogramColors": [],
+    "monogramPositions": []
+  },
+  "defaultSelectedMonogram": {},
+  "defaultSelectedBaseStyle": {},
+  "defaultValues": {
+    "fabricId": null,
+    "configurationTypes": {
+      "4": {
+        "configurationTypeId": 4,
+        "defaultOptionValues": {
+          "13": 55,
+          "17": 99,
+          "37": 214,
+          "49": 386,
+          "84": 712,
+          "99": 803
+        }
+      }
+    }
+  },
+  "layerDefinitions": {
+    "configurationTypes": {
+      "4": {
+        "fallbackUrl": "custommade/assets/default-images/Shirt",
+        "sequenceNo": 1,
+        "layerDefinitions": [
+          {
+            "imageTemplate": "shirtconfig/{fabricId}/placket/{99}_{49}"
+          },
+          {
+            "imageTemplate": "shirtconfig/{fabricId}/sleeve/SSLSS1_{84}"
+          },
+          {
+            "imageTemplate": "shirtconfig/{fabricId}/collar/CCN_{37}_CH3.5"
+          },
+          {
+            "imageTemplate": "shirtconfig/{fabricId}/cuff/CCUN_{17}"
+          },
+          {
+            "imageTemplate": "shirtconfig/shared/buttons/{37}_CH3.5_{49}_BC3_{13}"
+          }
+        ]
+      }
+    }
+  },
+  "configuratordataproviderBasePath": "https://apim.suitsupply.com/custommade/configuratordataprovider/api/v1/",
+  "productconfigurationBasePath": "https://apim.suitsupply.com/custommade/productconfiguration/v1/",
+  "productconfigurationKey": "ApiKey 534541ea813444b6801fd39da3217bd8",
+  "productmeasurementBasePath": "https://apim.suitsupply.com/measurements/api/v1/",
+  "configurationImagesBasePath": "https://cdn.suitsupply.com/image/upload/configurationimages",
+  "addToCartWebstoreUrlTemplate": "https://suitsupply.com/on/demandware.store/Sites-{0}-Site/{1}/Cart-AddCustomMadeProducts",
+  "cmWebstoreOrigin": "https://suitsupply.com/"
+}

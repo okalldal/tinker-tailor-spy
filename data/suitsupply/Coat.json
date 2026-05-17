@@ -1,0 +1,3516 @@
+{
+  "defaultProduct": "Coat",
+  "defaultCountryCode": "NL",
+  "defaultLanguage": "en",
+  "defaultClient": "onLine",
+  "defaultDeliveryPeriod": {
+    "minDurationInWeeks": 2,
+    "maxDurationInWeeks": 3
+  },
+  "fabricList": {
+    "30": {
+      "id": 30,
+      "code": "81801/32",
+      "name": "Black Wool Cashmere",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 450,
+      "stockStatus": "HIGH",
+      "imageName": "S81801-32_23",
+      "layerImageName": "S81801-32",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J812"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "50": {
+      "id": 50,
+      "code": "1142/980",
+      "name": "Light Grey Pure Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-980_23",
+      "layerImageName": "S1142-980",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J845"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "61": {
+      "id": 61,
+      "code": "10012.RGS/13",
+      "name": "Light Grey Circular Pure Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Circular Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 410,
+      "stockStatus": "HIGH",
+      "imageName": "S10012.RGS-13_23",
+      "layerImageName": "S10012.RGS-13",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J834"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "139": {
+      "id": 139,
+      "code": "1548.20/18",
+      "name": "Black Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-18_23",
+      "layerImageName": "S1548.20-18",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "B2048",
+        "C2048",
+        "Loan",
+        "C2148",
+        "B2148"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "151": {
+      "id": 151,
+      "code": "1548.20/54",
+      "name": "Burgundy Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Red",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-54_23",
+      "layerImageName": "S1548.20-54",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "152": {
+      "id": 152,
+      "code": "1548.20/52",
+      "name": "Off-White Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "White",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-52_23",
+      "layerImageName": "S1548.20-52",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "B6674",
+        "Loan"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "180": {
+      "id": 180,
+      "code": "1142/31",
+      "name": "Light Brown Pure Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-31_23",
+      "layerImageName": "S1142-31",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "183": {
+      "id": 183,
+      "code": "77001/9321",
+      "name": "Light Green Alpaca Wool",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Alpaca Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Ferla (It)",
+      "compositionText": "90% Alpaca, 10% Polyamide",
+      "weight": 570,
+      "stockStatus": "HIGH",
+      "imageName": "S77001-9321_23",
+      "layerImageName": "S77001-9321",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J948"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "191": {
+      "id": 191,
+      "code": "C401821/B434",
+      "name": "Light Brown Plain Pure Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Casentino (It)",
+      "compositionText": "100% Wool",
+      "weight": 590,
+      "stockStatus": "HIGH",
+      "imageName": "SC401821-B434_23",
+      "layerImageName": "SC401821-B434",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J962"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 549
+        },
+        "symbol": "€"
+      }
+    },
+    "214": {
+      "id": 214,
+      "code": "88031/0091",
+      "name": "Black Pure Cashmere",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Colombo (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 440,
+      "stockStatus": "HIGH",
+      "imageName": "S88031-0091_23",
+      "layerImageName": "S88031-0091",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "252": {
+      "id": 252,
+      "code": "1548.20/43",
+      "name": "Mid Brown Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-43_23",
+      "layerImageName": "S1548.20-43",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "273": {
+      "id": 273,
+      "code": "1548.20/21",
+      "name": "Light Blue Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Blue",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-21_23",
+      "layerImageName": "S1548.20-21",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "276": {
+      "id": 276,
+      "code": "10012.RGS.2",
+      "name": "Light Brown Pure Cashmere",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 410,
+      "stockStatus": "HIGH",
+      "imageName": "S10012.RGS.2_23",
+      "layerImageName": "S10012.RGS.2",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "338": {
+      "id": 338,
+      "code": "1548.20/50",
+      "name": "Dark Green Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-50_23",
+      "layerImageName": "S1548.20-50",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "342": {
+      "id": 342,
+      "code": "1548.20/8",
+      "name": "Light Grey Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-8_23",
+      "layerImageName": "S1548.20-8",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "Not defined",
+        "Loan",
+        "C6855"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "393": {
+      "id": 393,
+      "code": "1548.20/53",
+      "name": "Dark Brown Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-53_23",
+      "layerImageName": "S1548.20-53",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "B6639",
+        "C6639",
+        "Loan"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "411": {
+      "id": 411,
+      "code": "1548.20/27",
+      "name": "Mid Blue Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Blue",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-27_23",
+      "layerImageName": "S1548.20-27",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "419": {
+      "id": 419,
+      "code": "202.501/1",
+      "name": "Light Grey Pure Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Vitale Barberis Canonico (It)",
+      "compositionText": "100% Wool",
+      "weight": 560,
+      "stockStatus": "HIGH",
+      "imageName": "S202.501-1_23",
+      "layerImageName": "S202.501-1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 549
+        },
+        "symbol": "€"
+      }
+    },
+    "427": {
+      "id": 427,
+      "code": "90702/38",
+      "name": "Light Grey Herringbone Wool Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Herringbone",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S90702-38_23",
+      "layerImageName": "S90702-38",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "449": {
+      "id": 449,
+      "code": "1500.1/9197",
+      "name": "Mid Brown Pure Cashmere",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 360,
+      "stockStatus": "HIGH",
+      "imageName": "S1500.1-9197_23",
+      "layerImageName": "S1500.1-9197",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "BW304"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "497": {
+      "id": 497,
+      "code": "1548.20/51",
+      "name": "Dark Green Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-51_23",
+      "layerImageName": "S1548.20-51",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "C6853",
+        "B6853"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "498": {
+      "id": 498,
+      "code": "6461.20/287",
+      "name": "Dark Grey Llama Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Llama Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Piacenza (It)",
+      "compositionText": "60% Llama Wool, 40% Wool",
+      "weight": 640,
+      "stockStatus": "HIGH",
+      "imageName": "S6461.20-287_23",
+      "layerImageName": "S6461.20-287",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J920"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "558": {
+      "id": 558,
+      "code": "1142/910",
+      "name": "Dark Grey Pure Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-910_23",
+      "layerImageName": "S1142-910",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J460"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "606": {
+      "id": 606,
+      "code": "90702/5",
+      "name": "Navy Herringbone Wool Cashmere",
+      "colorName": "Blue",
+      "dessinName": "Herringbone",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S90702-5_23",
+      "layerImageName": "S90702-5",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "648": {
+      "id": 648,
+      "code": "1548.20/9",
+      "name": "Mid Grey Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-9_23",
+      "layerImageName": "S1548.20-9",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "675": {
+      "id": 675,
+      "code": "88031.10/267",
+      "name": "Dark Grey Pure Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Colombo (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 440,
+      "stockStatus": "HIGH",
+      "imageName": "S88031.10-267_23",
+      "layerImageName": "S88031.10-267",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "676": {
+      "id": 676,
+      "code": "572001/1",
+      "name": "Light Brown Check Alpaca Wool",
+      "colorName": "Brown",
+      "dessinName": "Check",
+      "qualityName": "Alpaca Wool Polyamide",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Ferla (It)",
+      "compositionText": "45% Alpaca, 45% Wool, 10% Polyamide",
+      "weight": 570,
+      "stockStatus": "HIGH",
+      "imageName": "S572001-1_23",
+      "layerImageName": "S572001-1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "740": {
+      "id": 740,
+      "code": "10012.RGS/8",
+      "name": "Mid Green Pure Cashmere",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 410,
+      "stockStatus": "HIGH",
+      "imageName": "S10012.RGS-8_23",
+      "layerImageName": "S10012.RGS-8",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "756": {
+      "id": 756,
+      "code": "81801/1",
+      "name": "Light Grey Wool Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 450,
+      "stockStatus": "HIGH",
+      "imageName": "S81801-1_23",
+      "layerImageName": "S81801-1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "988": {
+      "id": 988,
+      "code": "202.501/44",
+      "name": "Light Brown Pure Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Vitale Barberis Canonico (It)",
+      "compositionText": "100% Wool",
+      "weight": 560,
+      "stockStatus": "HIGH",
+      "imageName": "S202.501-44_23",
+      "layerImageName": "S202.501-44",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 549
+        },
+        "symbol": "€"
+      }
+    },
+    "1063": {
+      "id": 1063,
+      "code": "L5403/424",
+      "name": "Light Grey Pure Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "All Season",
+      "manufacturerName": "Achille Pinto (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 450,
+      "stockStatus": "HIGH",
+      "imageName": "SL5403-424_23",
+      "layerImageName": "SL5403-424",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "1105": {
+      "id": 1105,
+      "code": "1142/218",
+      "name": "Navy Pure Wool",
+      "colorName": "Blue",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-218_23",
+      "layerImageName": "S1142-218",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J980"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "1112": {
+      "id": 1112,
+      "code": "901801/718",
+      "name": "Mid Green Wool Cashmere",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 450,
+      "stockStatus": "HIGH",
+      "imageName": "S901801-718_23",
+      "layerImageName": "S901801-718",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1124": {
+      "id": 1124,
+      "code": "77501/73",
+      "name": "Mid Brown Alpaca Polyamide",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Alpaca Polyamide",
+      "seasonName": "Spring/Summer",
+      "manufacturerName": "Ferla (It)",
+      "compositionText": "90% Baby Alpaca, 10% Polyamide",
+      "weight": 570,
+      "stockStatus": "HIGH",
+      "imageName": "S77501-73_23",
+      "layerImageName": "S77501-73",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "1187": {
+      "id": 1187,
+      "code": "1548.20/4",
+      "name": "Dark Grey Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-4_23",
+      "layerImageName": "S1548.20-4",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "B1891",
+        "W1548.20/4",
+        "Loan",
+        "C6854"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "1199": {
+      "id": 1199,
+      "code": "6754.20/29",
+      "name": "Light Brown Pure Camel",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Camel",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Piacenza (It)",
+      "compositionText": "100% Camel",
+      "weight": 550,
+      "stockStatus": "HIGH",
+      "imageName": "S6754.20-29_23",
+      "layerImageName": "S6754.20-29",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J917"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "1227": {
+      "id": 1227,
+      "code": "1142/900",
+      "name": "Black Pure Wool",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-900_23",
+      "layerImageName": "S1142-900",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "1228": {
+      "id": 1228,
+      "code": "899.601/5316",
+      "name": "Mid Green Pure S120's Wool Flannel",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Pure S120's Wool Flannel",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Vitale Barberis Canonico (It)",
+      "compositionText": "100% Wool",
+      "weight": 270,
+      "stockStatus": "HIGH",
+      "imageName": "S899.601-5316_23",
+      "layerImageName": "S899.601-5316",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 549
+        },
+        "symbol": "€"
+      }
+    },
+    "1312": {
+      "id": 1312,
+      "code": "1142/647",
+      "name": "Mid Green Pure Wool",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-647_23",
+      "layerImageName": "S1142-647",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J835"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "1325": {
+      "id": 1325,
+      "code": "95201/4",
+      "name": "Navy Check Wool Cashmere",
+      "colorName": "Blue",
+      "dessinName": "Check",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 450,
+      "stockStatus": "HIGH",
+      "imageName": "S95201-4_23",
+      "layerImageName": "S95201-4",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J783"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1357": {
+      "id": 1357,
+      "code": "1548.20/41",
+      "name": "Mid Brown Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-41_23",
+      "layerImageName": "S1548.20-41",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "P7013"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "1423": {
+      "id": 1423,
+      "code": "90702/155",
+      "name": "Light Brown Herringbone Wool Cashmere",
+      "colorName": "Brown",
+      "dessinName": "Herringbone",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "93% Wool, 7% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S90702-155_23",
+      "layerImageName": "S90702-155",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1473": {
+      "id": 1473,
+      "code": "10012.RGS/9",
+      "name": "Mid Blue Pure Cashmere",
+      "colorName": "Blue",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 410,
+      "stockStatus": "HIGH",
+      "imageName": "S10012.RGS-9_23",
+      "layerImageName": "S10012.RGS-9",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "0"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "1548": {
+      "id": 1548,
+      "code": "1548.20/65",
+      "name": "Sand Pure Wrinkle-Free 4-Ply Wool",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Wrinkle-Free 4-Ply Wool",
+      "seasonName": "All Season",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Wool",
+      "weight": 400,
+      "stockStatus": "HIGH",
+      "imageName": "S1548.20-65_23",
+      "layerImageName": "S1548.20-65",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "C6934",
+        "B6934"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 499
+        },
+        "symbol": "€"
+      }
+    },
+    "1588": {
+      "id": 1588,
+      "code": "1142/9450",
+      "name": "Light Green Plain Pure Wool",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Pure Wool",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Longda (Cn)",
+      "compositionText": "100% Wool",
+      "weight": 420,
+      "stockStatus": "HIGH",
+      "imageName": "S1142-9450_23",
+      "layerImageName": "S1142-9450",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1020"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 479
+        },
+        "symbol": "€"
+      }
+    },
+    "1589": {
+      "id": 1589,
+      "code": "90702/54",
+      "name": "Black Plain Wool Cashmere",
+      "colorName": "Black",
+      "dessinName": "Herringbone",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 500,
+      "stockStatus": "HIGH",
+      "imageName": "S90702-54_23",
+      "layerImageName": "S90702-54",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1590": {
+      "id": 1590,
+      "code": "173501/36",
+      "name": "Black Plain Wool Cashmere",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-36_23",
+      "layerImageName": "S173501-36",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1010"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1591": {
+      "id": 1591,
+      "code": "173501/1",
+      "name": "Navy Plain Wool Cashmere",
+      "colorName": "Blue",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-1_23",
+      "layerImageName": "S173501-1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1012"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1595": {
+      "id": 1595,
+      "code": "173501/199",
+      "name": "Mid Grey Wool Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-199_23",
+      "layerImageName": "S173501-199",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1021"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "1596": {
+      "id": 1596,
+      "code": "G8925.20/1",
+      "name": "Mid Brown Pure Camel",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Pure Camel",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Camel",
+      "weight": 440,
+      "stockStatus": "HIGH",
+      "imageName": "SG8925.20-1_23",
+      "layerImageName": "SG8925.20-1",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1665",
+        "J1014"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "1597": {
+      "id": 1597,
+      "code": "G8961.20/18",
+      "name": "Black Pure Cashmere",
+      "colorName": "Black",
+      "dessinName": "Plain",
+      "qualityName": "Pure Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "Rogna (It)",
+      "compositionText": "100% Cashmere",
+      "weight": 450,
+      "stockStatus": "HIGH",
+      "imageName": "SG8961.20-18_23",
+      "layerImageName": "SG8961.20-18",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1009"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 799
+        },
+        "symbol": "€"
+      }
+    },
+    "8718": {
+      "id": 8718,
+      "code": "173501/46",
+      "name": "Light Brown Plain Wool Cashmere",
+      "colorName": "Brown",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-46_23",
+      "layerImageName": "S173501-46",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1011"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "8739": {
+      "id": 8739,
+      "code": "173501/57",
+      "name": "Light Grey Wool Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-57_23",
+      "layerImageName": "S173501-57",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "8740": {
+      "id": 8740,
+      "code": "173501/58",
+      "name": "Dark Grey Wool Cashmere",
+      "colorName": "Grey",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-58_23",
+      "layerImageName": "S173501-58",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    },
+    "8742": {
+      "id": 8742,
+      "code": "173501/429",
+      "name": "Green Wool Cashmere",
+      "colorName": "Green",
+      "dessinName": "Plain",
+      "qualityName": "Wool Cashmere",
+      "seasonName": "Fall/Winter",
+      "manufacturerName": "E.Thomas (It)",
+      "compositionText": "90% Wool, 10% Cashmere",
+      "weight": 490,
+      "stockStatus": "HIGH",
+      "imageName": "S173501-429_23",
+      "layerImageName": "S173501-429",
+      "bookletsAndSliders": null,
+      "rtwProductCodes": [
+        "J1078"
+      ],
+      "prices": {
+        "code": "EUR",
+        "configurationTypes": {
+          "1": 649
+        },
+        "symbol": "€"
+      }
+    }
+  },
+  "fabricSequence": [
+    1124,
+    411,
+    273,
+    139,
+    1187,
+    648,
+    1063,
+    342,
+    338,
+    497,
+    393,
+    252,
+    1357,
+    276,
+    1548,
+    152,
+    151,
+    606,
+    1105,
+    1591,
+    1325,
+    1473,
+    30,
+    1589,
+    1597,
+    1227,
+    498,
+    558,
+    675,
+    8740,
+    1595,
+    50,
+    61,
+    419,
+    756,
+    8739,
+    1588,
+    8742,
+    740,
+    1112,
+    1228,
+    1312,
+    183,
+    180,
+    191,
+    676,
+    988,
+    1199,
+    1423,
+    1596,
+    449,
+    8718,
+    427,
+    1590,
+    214
+  ],
+  "fabricFilters": [
+    {
+      "id": 1,
+      "type": "color",
+      "displayName": "Color",
+      "filterAttribute": "colorName",
+      "items": [
+        {
+          "id": 15,
+          "displayName": "Blue",
+          "value": "#444C52"
+        },
+        {
+          "id": 17,
+          "displayName": "White",
+          "value": "#E7E7E7"
+        },
+        {
+          "id": 8,
+          "displayName": "Brown",
+          "value": "#AB7C65"
+        },
+        {
+          "id": 19,
+          "displayName": "Green",
+          "value": "#8EA097"
+        },
+        {
+          "id": 21,
+          "displayName": "Black",
+          "value": "#000000"
+        },
+        {
+          "id": 25,
+          "displayName": "Grey",
+          "value": "#999999"
+        },
+        {
+          "id": 16,
+          "displayName": "Red",
+          "value": "#a9474b"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "checkbox",
+      "displayName": "Season",
+      "filterAttribute": "seasonName",
+      "items": [
+        {
+          "id": 1,
+          "displayName": "All Season"
+        },
+        {
+          "id": 3,
+          "displayName": "Spring/Summer"
+        },
+        {
+          "id": 2,
+          "displayName": "Fall/Winter"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "checkbox",
+      "displayName": "Design",
+      "filterAttribute": "dessinName",
+      "items": [
+        {
+          "id": 11,
+          "displayName": "Check"
+        },
+        {
+          "id": 4,
+          "displayName": "Herringbone"
+        },
+        {
+          "id": 15,
+          "displayName": "Plain"
+        },
+        {
+          "id": 13,
+          "displayName": "Stripe"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "checkbox",
+      "displayName": "Material",
+      "filterAttribute": "qualityName",
+      "items": [
+        {
+          "id": 4,
+          "displayName": "Alpaca",
+          "subItems": [
+            {
+              "id": 142,
+              "displayName": "Alpaca Wool Polyamide"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "displayName": "Camel",
+          "subItems": [
+            {
+              "id": 144,
+              "displayName": "Pure Camel"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "displayName": "Cashmere",
+          "subItems": [
+            {
+              "id": 143,
+              "displayName": "Circular Pure Cashmere"
+            },
+            {
+              "id": 12,
+              "displayName": "Pure Cashmere"
+            },
+            {
+              "id": 24,
+              "displayName": "Wool Cashmere"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "displayName": "Wool",
+          "subItems": [
+            {
+              "id": 22,
+              "displayName": "Alpaca Wool"
+            },
+            {
+              "id": 142,
+              "displayName": "Alpaca Wool Polyamide"
+            },
+            {
+              "id": 42,
+              "displayName": "Llama Wool"
+            },
+            {
+              "id": 34,
+              "displayName": "Pure S120's Wool Flannel"
+            },
+            {
+              "id": 83,
+              "displayName": "Pure Wool"
+            },
+            {
+              "id": 24,
+              "displayName": "Wool Cashmere"
+            },
+            {
+              "id": 100,
+              "displayName": "Wrinkle-Free 4-Ply Wool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "checkbox",
+      "displayName": "Mill",
+      "filterAttribute": "manufacturerName",
+      "items": [
+        {
+          "id": 64,
+          "displayName": "Achille Pinto (It)"
+        },
+        {
+          "id": 18,
+          "displayName": "Achille Pinto (It)"
+        },
+        {
+          "id": 42,
+          "displayName": "Casentino (It)"
+        },
+        {
+          "id": 10,
+          "displayName": "Colombo (It)"
+        },
+        {
+          "id": 47,
+          "displayName": "E.Thomas (It)"
+        },
+        {
+          "id": 71,
+          "displayName": "Ferla (It)"
+        },
+        {
+          "id": 55,
+          "displayName": "Longda (Cn)"
+        },
+        {
+          "id": 38,
+          "displayName": "Piacenza (It)"
+        },
+        {
+          "id": 17,
+          "displayName": "Rogna (It)"
+        },
+        {
+          "id": 36,
+          "displayName": "Vitale Barberis Canonico (It)"
+        }
+      ]
+    }
+  ],
+  "fabricPreFilters": null,
+  "options": {
+    "1": {
+      "items": [
+        {
+          "id": 126,
+          "type": "OPTION",
+          "code": "Coat_model",
+          "name": "Closure",
+          "imageName": "Coat_model",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": false,
+          "hasSearch": false,
+          "isAdvanced": false,
+          "zoomPosition": 5,
+          "rotationPosition": 0,
+          "optionValues": [
+            1034,
+            1035
+          ]
+        },
+        {
+          "id": 127,
+          "type": "OPTION",
+          "code": "Coat_lapel",
+          "name": "Lapel",
+          "imageName": "Coat_lapel",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": false,
+          "hasSearch": false,
+          "isAdvanced": false,
+          "zoomPosition": 3,
+          "rotationPosition": 0,
+          "optionValues": [
+            1038,
+            1039
+          ]
+        },
+        {
+          "type": "OPTION_GROUP",
+          "id": 10032,
+          "name": "Lining",
+          "imageName": null,
+          "imageUrlTemplate": null,
+          "isAdvanced": false,
+          "options": [
+            {
+              "id": 23,
+              "type": "OPTION",
+              "code": "lining_type",
+              "name": "Type",
+              "imageName": "lining_type",
+              "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+              "appendCode": false,
+              "showDescription": true,
+              "hasSearch": false,
+              "isAdvanced": false,
+              "zoomPosition": 2,
+              "rotationPosition": 0,
+              "optionValues": [
+                1115,
+                1117
+              ]
+            },
+            {
+              "id": 64,
+              "type": "OPTION",
+              "code": "lining",
+              "name": "Color",
+              "imageName": "lining",
+              "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+              "appendCode": true,
+              "showDescription": false,
+              "hasSearch": true,
+              "isAdvanced": false,
+              "zoomPosition": 0,
+              "rotationPosition": 0,
+              "optionValues": [
+                540,
+                1016,
+                1021,
+                547,
+                1011,
+                562,
+                561,
+                546,
+                563,
+                564,
+                541,
+                545,
+                543,
+                578,
+                544,
+                572,
+                1028,
+                573,
+                539,
+                538,
+                566,
+                568,
+                567,
+                565,
+                570,
+                569,
+                571,
+                560,
+                559,
+                558,
+                552,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "type": "OPTION",
+          "code": "button",
+          "name": "Buttons",
+          "imageName": "button",
+          "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+          "appendCode": true,
+          "showDescription": false,
+          "hasSearch": true,
+          "isAdvanced": false,
+          "zoomPosition": 5,
+          "rotationPosition": 0,
+          "optionValues": [
+            929,
+            934,
+            928,
+            930,
+            933,
+            932,
+            1105,
+            1109
+          ]
+        },
+        {
+          "type": "MONOGRAM",
+          "id": 100435,
+          "name": "Monogram",
+          "imageName": "MOI1N",
+          "imageUrlTemplate": "custommade/thumbs2/monogramStyle/jacket",
+          "maxAllowedNumberOfPositions": null,
+          "initialsMaxLength": 15,
+          "isAdvanced": false,
+          "colors": {
+            "1": {
+              "id": 1,
+              "name": "Light Blue",
+              "imageName": "315",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 4
+            },
+            "2": {
+              "id": 2,
+              "name": "Grey",
+              "imageName": "379",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 3
+            },
+            "3": {
+              "id": 3,
+              "name": "Purple",
+              "imageName": "645",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 9
+            },
+            "4": {
+              "id": 4,
+              "name": "Navy",
+              "imageName": "354",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 5
+            },
+            "5": {
+              "id": 5,
+              "name": "Dark Brown",
+              "imageName": "174",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 11
+            },
+            "6": {
+              "id": 6,
+              "name": "Silver",
+              "imageName": "374",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 2
+            },
+            "7": {
+              "id": 7,
+              "name": "Red",
+              "imageName": "38",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 8
+            },
+            "8": {
+              "id": 8,
+              "name": "Gold",
+              "imageName": "535",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 10
+            },
+            "9": {
+              "id": 9,
+              "name": "Pink",
+              "imageName": "276",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 6
+            },
+            "10": {
+              "id": 10,
+              "name": "Dark Pink",
+              "imageName": "267",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 7
+            },
+            "11": {
+              "id": 11,
+              "name": "White",
+              "imageName": "401",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 1
+            },
+            "12": {
+              "id": 12,
+              "name": "Black",
+              "imageName": "402",
+              "imageUrlTemplate": "custommade/thumbs2/monogramColor_ui_v3",
+              "sequenceNo": 12
+            }
+          },
+          "fontTypes": {
+            "1": {
+              "id": 1,
+              "name": "Script",
+              "imageName": "MOI2N",
+              "imageUrlTemplate": "custommade/thumbs2/monogramStyle/jacket"
+            },
+            "2": {
+              "id": 2,
+              "name": "Block",
+              "imageName": "MOI1N",
+              "imageUrlTemplate": "custommade/thumbs2/monogramStyle/jacket"
+            }
+          },
+          "positions": {
+            "10": {
+              "id": 10,
+              "name": "Inside Jacket",
+              "imageName": "MOL1",
+              "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail"
+            },
+            "17": {
+              "id": 17,
+              "name": "Underneath Collar",
+              "imageName": "MOL2",
+              "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail"
+            }
+          }
+        },
+        {
+          "id": 1,
+          "type": "OPTION",
+          "code": "coat_waistline",
+          "name": "Belt",
+          "imageName": "coat_waistline",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 5,
+          "rotationPosition": 0,
+          "optionValues": [
+            1043,
+            1045
+          ]
+        },
+        {
+          "id": 25,
+          "type": "OPTION",
+          "code": "coat_length",
+          "name": "Length",
+          "imageName": "coat_length",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": true,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 8,
+          "rotationPosition": 0,
+          "optionValues": [
+            1075,
+            1114,
+            1070
+          ]
+        },
+        {
+          "id": 132,
+          "type": "OPTION",
+          "code": "Coat_sidepocket",
+          "name": "Side Pocket",
+          "imageName": "Coat_sidepocket",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": false,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 5,
+          "rotationPosition": 0,
+          "optionValues": [
+            1061,
+            1062,
+            1063
+          ]
+        },
+        {
+          "id": 130,
+          "type": "OPTION",
+          "code": "Coat_shoulder",
+          "name": "Shoulder",
+          "imageName": "Coat_shoulder",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": false,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 3,
+          "rotationPosition": 0,
+          "optionValues": [
+            1055,
+            1057
+          ]
+        },
+        {
+          "id": 136,
+          "type": "OPTION",
+          "code": "Coat_AMF",
+          "name": "Amf",
+          "imageName": "Coat_AMF",
+          "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+          "appendCode": false,
+          "showDescription": false,
+          "hasSearch": false,
+          "isAdvanced": true,
+          "zoomPosition": 3,
+          "rotationPosition": 0,
+          "optionValues": [
+            1112,
+            1113
+          ]
+        }
+      ]
+    }
+  },
+  "optionValues": {
+    "538": {
+      "id": 538,
+      "optionId": 64,
+      "code": "100",
+      "name": "Black",
+      "description": "Black",
+      "configurationTypeId": 1,
+      "imageName": "100",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "100",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "539": {
+      "id": 539,
+      "optionId": 64,
+      "code": "1047",
+      "name": "Dark Brown",
+      "description": "Dark Brown",
+      "configurationTypeId": 1,
+      "imageName": "1047",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "1047",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "540": {
+      "id": 540,
+      "optionId": 64,
+      "code": "1098",
+      "name": "White",
+      "description": "White Lining",
+      "configurationTypeId": 1,
+      "imageName": "1098",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "1098",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "541": {
+      "id": 541,
+      "optionId": 64,
+      "code": "1197",
+      "name": "Navy",
+      "description": "Navy",
+      "configurationTypeId": 1,
+      "imageName": "197",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "197",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "543": {
+      "id": 543,
+      "optionId": 64,
+      "code": "1230",
+      "name": "Red",
+      "description": "Red",
+      "configurationTypeId": 1,
+      "imageName": "230",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "230",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "544": {
+      "id": 544,
+      "optionId": 64,
+      "code": "1249",
+      "name": "Dark Red",
+      "description": "Dark Red",
+      "configurationTypeId": 1,
+      "imageName": "249",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "249",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "545": {
+      "id": 545,
+      "optionId": 64,
+      "code": "1846",
+      "name": "Pink",
+      "description": "Pink",
+      "configurationTypeId": 1,
+      "imageName": "846",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "846",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "546": {
+      "id": 546,
+      "optionId": 64,
+      "code": "3217",
+      "name": "Steel Blue",
+      "description": "Steel Blue",
+      "configurationTypeId": 1,
+      "imageName": "3217",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "3217",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "547": {
+      "id": 547,
+      "optionId": 64,
+      "code": "3222",
+      "name": "Grey",
+      "description": "Grey",
+      "configurationTypeId": 1,
+      "imageName": "3222",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "3222",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "552": {
+      "id": 552,
+      "optionId": 64,
+      "code": "584-A-1",
+      "name": "Paisley Navy",
+      "description": "Paisley Navy",
+      "configurationTypeId": 1,
+      "imageName": "584-A-1",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "584-A-1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "558": {
+      "id": 558,
+      "optionId": 64,
+      "code": "647-8",
+      "name": "Flower Green",
+      "description": "Flower Green",
+      "configurationTypeId": 1,
+      "imageName": "647-8",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "647-8",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "559": {
+      "id": 559,
+      "optionId": 64,
+      "code": "647-9",
+      "name": "Flower Dark Red",
+      "description": "Flower Dark Red",
+      "configurationTypeId": 1,
+      "imageName": "647-9",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "647-9",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "560": {
+      "id": 560,
+      "optionId": 64,
+      "code": "647-A",
+      "name": "Flower Navy",
+      "description": "Flower Navy",
+      "configurationTypeId": 1,
+      "imageName": "647-A",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "647-A",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "561": {
+      "id": 561,
+      "optionId": 64,
+      "code": "819",
+      "name": "Light Blue",
+      "description": "Light Blue",
+      "configurationTypeId": 1,
+      "imageName": "819",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "819",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "562": {
+      "id": 562,
+      "optionId": 64,
+      "code": "83",
+      "name": "Dark Grey",
+      "description": "Dark Grey",
+      "configurationTypeId": 1,
+      "imageName": "83",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "83",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "563": {
+      "id": 563,
+      "optionId": 64,
+      "code": "9680",
+      "name": "Blue",
+      "description": "Blue",
+      "configurationTypeId": 1,
+      "imageName": "9680",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "9680",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "564": {
+      "id": 564,
+      "optionId": 64,
+      "code": "9688",
+      "name": "Dark Blue",
+      "description": "Dark Blue",
+      "configurationTypeId": 1,
+      "imageName": "9688",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "9688",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "565": {
+      "id": 565,
+      "optionId": 64,
+      "code": "CL0677-100",
+      "name": "Brown Houndstooth",
+      "description": "Brown Houndstooth",
+      "configurationTypeId": 1,
+      "imageName": "CL0677-100",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1325",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "566": {
+      "id": 566,
+      "optionId": 64,
+      "code": "CL0677-1098",
+      "name": "Light Grey Houndstooth",
+      "description": "Light Grey Houndstooth",
+      "configurationTypeId": 1,
+      "imageName": "CL0677-1098",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1322",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "567": {
+      "id": 567,
+      "optionId": 64,
+      "code": "CL0677-3276",
+      "name": "Burgundy Houndstooth",
+      "description": "Burgundy Houndstooth",
+      "configurationTypeId": 1,
+      "imageName": "CL0677-3276",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1324",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "568": {
+      "id": 568,
+      "optionId": 64,
+      "code": "CL0677-9688",
+      "name": "Navy Houndstooth",
+      "description": "Navy Houndstooth",
+      "configurationTypeId": 1,
+      "imageName": "CL0677-9688",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1323",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "569": {
+      "id": 569,
+      "optionId": 64,
+      "code": "CL0688-3276",
+      "name": "Burgundy Dot",
+      "description": "Burgundy Dot",
+      "configurationTypeId": 1,
+      "imageName": "CL0688-3276",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1327",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "570": {
+      "id": 570,
+      "optionId": 64,
+      "code": "CL0688-9688",
+      "name": "Navy Dot",
+      "description": "Navy Dot",
+      "configurationTypeId": 1,
+      "imageName": "CL0688-9688",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1326",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "571": {
+      "id": 571,
+      "optionId": 64,
+      "code": "CL0688-L3",
+      "name": "Green Dot",
+      "description": "Green Dot",
+      "configurationTypeId": 1,
+      "imageName": "CL0688-L3",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1328",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "572": {
+      "id": 572,
+      "optionId": 64,
+      "code": "COLOR-3276",
+      "name": "Burgundy",
+      "description": "Burgundy",
+      "configurationTypeId": 1,
+      "imageName": "COLOR-3276",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1329",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "573": {
+      "id": 573,
+      "optionId": 64,
+      "code": "COLOR-L3",
+      "name": "Green",
+      "description": "Green",
+      "configurationTypeId": 1,
+      "imageName": "COLOR-L3",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "YBL1330",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "574": {
+      "id": 574,
+      "optionId": 64,
+      "code": "N3",
+      "name": "Horsebit Brown",
+      "description": "Horsebit Brown",
+      "configurationTypeId": 1,
+      "imageName": "N3",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "N3",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "578": {
+      "id": 578,
+      "optionId": 64,
+      "code": "SK339",
+      "name": "Olive Green",
+      "description": "Olive Green",
+      "configurationTypeId": 1,
+      "imageName": "SK339",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "SK339",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "928": {
+      "id": 928,
+      "optionId": 115,
+      "code": "BOHA3",
+      "name": "Dark Brown & Light Brown Matte",
+      "description": "Dark Brown & Light Brown Matte",
+      "configurationTypeId": 1,
+      "imageName": "BOHA3",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "BOHA3",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "929": {
+      "id": 929,
+      "optionId": 115,
+      "code": "BOHA4",
+      "name": "Beige & Dark Brown",
+      "description": "Beige & Dark Brown",
+      "configurationTypeId": 1,
+      "imageName": "BOHA4",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "BOHA4",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "930": {
+      "id": 930,
+      "optionId": 115,
+      "code": "G8",
+      "name": "Dark & Light Brown",
+      "description": "Dark & Light Brown",
+      "configurationTypeId": 1,
+      "imageName": "G8",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "G8",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "932": {
+      "id": 932,
+      "optionId": 115,
+      "code": "MH1",
+      "name": "Black Horn",
+      "description": "Black Horn",
+      "configurationTypeId": 1,
+      "imageName": "MH1",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "MH1",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "933": {
+      "id": 933,
+      "optionId": 115,
+      "code": "MH3",
+      "name": "Dark Brown Horn",
+      "description": "Dark Brown Horn",
+      "configurationTypeId": 1,
+      "imageName": "MH3",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "MH3",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "934": {
+      "id": 934,
+      "optionId": 115,
+      "code": "MH5",
+      "name": "Brown Horn",
+      "description": "Brown Horn",
+      "configurationTypeId": 1,
+      "imageName": "MH5",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "MH5",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "1011": {
+      "id": 1011,
+      "optionId": 64,
+      "code": "3220",
+      "name": "Light Grey",
+      "description": "Light Grey",
+      "configurationTypeId": 1,
+      "imageName": "3220",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "3220",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1016": {
+      "id": 1016,
+      "optionId": 64,
+      "code": "1106",
+      "name": "Stone",
+      "description": "Stone",
+      "configurationTypeId": 1,
+      "imageName": "1106",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "106",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1021": {
+      "id": 1021,
+      "optionId": 64,
+      "code": "1107",
+      "name": "Light Brown",
+      "description": "Light Brown",
+      "configurationTypeId": 1,
+      "imageName": "1107",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "107",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1028": {
+      "id": 1028,
+      "optionId": 64,
+      "code": "3277",
+      "name": "Sage",
+      "description": "Sage",
+      "configurationTypeId": 1,
+      "imageName": "3277",
+      "imageUrlTemplate": "custommade/thumbs2/lining_ui_v3",
+      "layerImageName": "3277",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1034": {
+      "id": 1034,
+      "optionId": 126,
+      "code": "CM2.5SB",
+      "name": "2.5 Button Single Breasted",
+      "description": "This style features a button on the lapel roll—a purely aesthetic detail that creates a lower closure.\r\n",
+      "configurationTypeId": 1,
+      "imageName": "CM2.5SB",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CM2.5SB",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1035": {
+      "id": 1035,
+      "optionId": 126,
+      "code": "CM6DB",
+      "name": "6 Button Double Breasted",
+      "description": "A classic double-breasted front featuring a 6-button closure. \r\n",
+      "configurationTypeId": 1,
+      "imageName": "CM6DB",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CM6DB",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1038": {
+      "id": 1038,
+      "optionId": 127,
+      "code": "CLN1",
+      "name": "Notch",
+      "description": "Classic & versatile, the notch lapel works well in any setting.\r\n",
+      "configurationTypeId": 1,
+      "imageName": "CLN1",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CLN1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1039": {
+      "id": 1039,
+      "optionId": 127,
+      "code": "CLP2",
+      "name": "Peak",
+      "description": "Peak lapels broaden the shoulders and are more angular with a bold upward peak.\r\n",
+      "configurationTypeId": 1,
+      "imageName": "CLP2",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CLP2",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1043": {
+      "id": 1043,
+      "optionId": 1,
+      "code": "CWNB",
+      "name": "No",
+      "description": "A finish without belt loops creates a sleeker, more streamlined silhouette.",
+      "configurationTypeId": 1,
+      "imageName": "CWNB",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CWNB",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1045": {
+      "id": 1045,
+      "optionId": 1,
+      "code": "CWBB",
+      "name": "Yes",
+      "description": "Belted coats feature a removable belt made of like fabric.",
+      "configurationTypeId": 1,
+      "imageName": "CWBB",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CWBB",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1055": {
+      "id": 1055,
+      "optionId": 130,
+      "code": "CSNA6",
+      "name": "Natural",
+      "description": "The highly versatile natural shoulder features minimal padding for a balanced finish.",
+      "configurationTypeId": 1,
+      "imageName": "CSNA6",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSNA6",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1057": {
+      "id": 1057,
+      "optionId": 130,
+      "code": "CSROP2",
+      "name": "Structured",
+      "description": "A structured shoulder features strong, defined shoulder line for an elegant and enhanced silhouette.",
+      "configurationTypeId": 1,
+      "imageName": "CSROP2",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSROP2",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1061": {
+      "id": 1061,
+      "optionId": 132,
+      "code": "CSPW",
+      "name": "Slanted Welt",
+      "description": "Slanted welted pockets are slightly angled for easier access.",
+      "configurationTypeId": 1,
+      "imageName": "CSPW",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSPW",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1062": {
+      "id": 1062,
+      "optionId": 132,
+      "code": "CSPF",
+      "name": "Large Flap (7cm)",
+      "description": "This style features a large 7cm flap of fabric over a jetted pocket which can be let out or tucked in.\r\n",
+      "configurationTypeId": 1,
+      "imageName": "CSPF",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSPF",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1063": {
+      "id": 1063,
+      "optionId": 132,
+      "code": "CSPP",
+      "name": "Patch",
+      "description": "Patch pockets feature a bucket-shaped piece of fabric sewn to the outside of a garment.",
+      "configurationTypeId": 1,
+      "imageName": "CSPP",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CSPP",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1070": {
+      "id": 1070,
+      "optionId": 25,
+      "code": "CEXT25",
+      "name": "Extended +25CM",
+      "description": "Cut to +25cm longer than our classic length coats, making for a more refined, streamlined look.",
+      "configurationTypeId": 1,
+      "imageName": "CEXT25",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CEXT25",
+      "measurementTag": "LengthExtended",
+      "additionalPrice": {
+        "amount": 25,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "1075": {
+      "id": 1075,
+      "optionId": 25,
+      "code": "CVIC0",
+      "name": "Standard",
+      "description": "The standard length of our coats, found on the Vicenza.",
+      "configurationTypeId": 1,
+      "imageName": "CVIC0",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CVIC0",
+      "measurementTag": "LengthNoAddition",
+      "additionalPrice": null
+    },
+    "1105": {
+      "id": 1105,
+      "optionId": 115,
+      "code": "OWC1",
+      "name": "Off-White",
+      "description": "Off-White button",
+      "configurationTypeId": 1,
+      "imageName": "OWC1",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "OWC1",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1109": {
+      "id": 1109,
+      "optionId": 115,
+      "code": "OWCB1",
+      "name": "Off-White Bone",
+      "description": "Off-White Bone button",
+      "configurationTypeId": 1,
+      "imageName": "OWCB1",
+      "imageUrlTemplate": "custommade/thumbs2/buttons_v2",
+      "layerImageName": "OWCB1",
+      "measurementTag": null,
+      "additionalPrice": {
+        "amount": 10,
+        "code": "EUR",
+        "symbol": "€"
+      }
+    },
+    "1112": {
+      "id": 1112,
+      "optionId": 136,
+      "code": "CAMF2mm",
+      "name": "2mm",
+      "description": "Found along the edges of the hem, pockets and lapel to prevent fabric curling.",
+      "configurationTypeId": 1,
+      "imageName": "CAMF2mm",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CAMF2mm",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1113": {
+      "id": 1113,
+      "optionId": 136,
+      "code": "CAMF6mm",
+      "name": "6mm",
+      "description": "Found 6mm in, along the edges of the hem, pockets and lapel to prevent fabric curling.",
+      "configurationTypeId": 1,
+      "imageName": "CAMF6mm",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CAMF6mm",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1114": {
+      "id": 1114,
+      "optionId": 25,
+      "code": "CDBFL15",
+      "name": "Standard +15cm",
+      "description": "Cut to +15cm longer than the standard length, as seen on the Torino.",
+      "configurationTypeId": 1,
+      "imageName": "CHEA14",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CHEA14",
+      "measurementTag": "LengthStandard",
+      "additionalPrice": null
+    },
+    "1115": {
+      "id": 1115,
+      "optionId": 23,
+      "code": "CLFL",
+      "name": "Full Lined",
+      "description": "Features a linking throughout the entirety of a coat's body and arms.",
+      "configurationTypeId": 1,
+      "imageName": "CLFL",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CLFL",
+      "measurementTag": null,
+      "additionalPrice": null
+    },
+    "1117": {
+      "id": 1117,
+      "optionId": 23,
+      "code": "CLUN",
+      "name": "Unlined",
+      "description": "Feature lining only in the sleeves, with none throughout the body.",
+      "configurationTypeId": 1,
+      "imageName": "CLUN",
+      "imageUrlTemplate": "coatconfig/{fabricImageName}/Fabricthumbnail",
+      "layerImageName": "CLUN",
+      "measurementTag": null,
+      "additionalPrice": null
+    }
+  },
+  "translations": {
+    "total": "Total",
+    "weekDelivery": "week delivery",
+    "save": "Save",
+    "saveDesign": "Save design"
+  },
+  "stylePresets": {
+    "configurationTypes": {
+      "1": {
+        "styles": [
+          {
+            "id": 82,
+            "name": "Single Breasted",
+            "description": "This style features a 2.5 button closure, a notch lapel & welted pockets.",
+            "presetOptions": [
+              {
+                "optionId": 23,
+                "optionValueId": 1115
+              },
+              {
+                "optionId": 136,
+                "optionValueId": 1112
+              },
+              {
+                "optionId": 132,
+                "optionValueId": 1061
+              },
+              {
+                "optionId": 1,
+                "optionValueId": 1043
+              },
+              {
+                "optionId": 126,
+                "optionValueId": 1034
+              },
+              {
+                "optionId": 127,
+                "optionValueId": 1038
+              },
+              {
+                "optionId": 25,
+                "optionValueId": 1075
+              },
+              {
+                "optionId": 130,
+                "optionValueId": 1055
+              }
+            ]
+          },
+          {
+            "id": 83,
+            "name": "Double Breasted",
+            "description": "This style features a 6-button double breasted closure, structured shoulder and flap pockets.",
+            "presetOptions": [
+              {
+                "optionId": 23,
+                "optionValueId": 1115
+              },
+              {
+                "optionId": 136,
+                "optionValueId": 1112
+              },
+              {
+                "optionId": 132,
+                "optionValueId": 1062
+              },
+              {
+                "optionId": 1,
+                "optionValueId": 1043
+              },
+              {
+                "optionId": 126,
+                "optionValueId": 1035
+              },
+              {
+                "optionId": 127,
+                "optionValueId": 1039
+              },
+              {
+                "optionId": 130,
+                "optionValueId": 1057
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "businessRules": {
+    "fabrics": {
+      "30": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      },
+      "50": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            547
+          ]
+        }
+      },
+      "61": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            547
+          ]
+        }
+      },
+      "152": {
+        "hide": {
+          "options": [],
+          "optionValues": [
+            546,
+            565,
+            566,
+            567,
+            568,
+            569,
+            570,
+            571,
+            572,
+            573,
+            538,
+            539,
+            1011,
+            552,
+            558,
+            559,
+            560,
+            561,
+            562,
+            563,
+            578,
+            541,
+            547,
+            543,
+            544,
+            545,
+            1016,
+            1021,
+            564,
+            1028,
+            574
+          ],
+          "monogramColors": [
+            86,
+            84,
+            89,
+            88,
+            78,
+            82,
+            79,
+            91,
+            87,
+            81,
+            85,
+            72,
+            70,
+            75,
+            74,
+            65,
+            69,
+            66,
+            77,
+            73,
+            68,
+            71
+          ],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            540
+          ]
+        }
+      },
+      "183": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            1028
+          ]
+        }
+      },
+      "214": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      },
+      "419": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            547
+          ]
+        }
+      },
+      "427": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            547
+          ]
+        }
+      },
+      "449": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            539
+          ]
+        }
+      },
+      "498": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      },
+      "558": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      },
+      "606": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            928,
+            541
+          ]
+        }
+      },
+      "675": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            928,
+            538
+          ]
+        }
+      },
+      "756": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            547
+          ]
+        }
+      },
+      "1063": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            547
+          ]
+        }
+      },
+      "1112": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            1028
+          ]
+        }
+      },
+      "1124": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            539
+          ]
+        }
+      },
+      "1227": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      },
+      "1312": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            928,
+            538
+          ]
+        }
+      },
+      "1325": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            928,
+            541
+          ]
+        }
+      },
+      "1548": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [
+            86,
+            84,
+            89,
+            88,
+            78,
+            82,
+            79,
+            91,
+            87,
+            81,
+            85,
+            72,
+            70,
+            75,
+            74,
+            65,
+            69,
+            66,
+            77,
+            73,
+            68,
+            71
+          ],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": []
+        }
+      },
+      "1589": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      },
+      "1596": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            539
+          ]
+        }
+      },
+      "1597": {
+        "hide": {
+          "options": [],
+          "optionValues": [],
+          "monogramColors": [],
+          "monogramPositions": []
+        },
+        "select": {
+          "optionValues": [
+            538
+          ]
+        }
+      }
+    },
+    "configurationTypes": {
+      "1": {
+        "optionValues": {
+          "1034": {
+            "hide": {
+              "options": [],
+              "optionValues": {
+                "1": [
+                  1039
+                ]
+              },
+              "monogramColors": [],
+              "monogramPositions": []
+            },
+            "select": {
+              "optionValues": {}
+            }
+          },
+          "1035": {
+            "hide": {
+              "options": [],
+              "optionValues": {
+                "1": [
+                  1038
+                ]
+              },
+              "monogramColors": [],
+              "monogramPositions": []
+            },
+            "select": {
+              "optionValues": {}
+            }
+          },
+          "1117": {
+            "hide": {
+              "options": [
+                64
+              ],
+              "optionValues": {},
+              "monogramColors": [],
+              "monogramPositions": []
+            },
+            "select": {
+              "optionValues": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "defaultSelectedFabric": {
+    "id": 1124,
+    "code": "77501/73",
+    "name": "Mid Brown Alpaca Polyamide",
+    "colorName": "Brown",
+    "dessinName": "Plain",
+    "qualityName": "Alpaca Polyamide",
+    "seasonName": "Spring/Summer",
+    "manufacturerName": "Ferla (It)",
+    "compositionText": "90% Baby Alpaca, 10% Polyamide",
+    "weight": 570,
+    "stockStatus": "HIGH",
+    "imageName": "S77501-73_23",
+    "layerImageName": "S77501-73",
+    "bookletsAndSliders": null,
+    "rtwProductCodes": [
+      "0"
+    ],
+    "prices": {
+      "code": "EUR",
+      "configurationTypes": {
+        "1": 799
+      },
+      "symbol": "€"
+    }
+  },
+  "defaultSection": "fabric",
+  "defaultSelectedOptions": {
+    "1": {
+      "1": 1043,
+      "23": 1115,
+      "25": 1075,
+      "64": 539,
+      "115": 930,
+      "126": 1034,
+      "127": 1038,
+      "130": 1055,
+      "132": 1061,
+      "136": 1112
+    }
+  },
+  "defaultHiddenOptionsAndValues": {
+    "optionsPerConfiguration": {
+      "1": []
+    },
+    "optionValuesPerConfiguration": {
+      "1": [
+        1039
+      ]
+    },
+    "monogramColors": [],
+    "monogramPositions": []
+  },
+  "defaultSelectedMonogram": {},
+  "defaultSelectedBaseStyle": {},
+  "defaultValues": {
+    "fabricId": null,
+    "configurationTypes": {
+      "1": {
+        "configurationTypeId": 1,
+        "defaultOptionValues": {
+          "1": 1043,
+          "23": 1115,
+          "25": 1075,
+          "64": 540,
+          "115": 930,
+          "126": 1034,
+          "127": 1038,
+          "130": 1055,
+          "132": 1061,
+          "136": 1112
+        }
+      }
+    }
+  },
+  "layerDefinitions": {
+    "configurationTypes": {
+      "1": {
+        "fallbackUrl": "custommade/assets/default-images/Coat",
+        "sequenceNo": 1,
+        "layerDefinitions": [
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/Closure/{126}_{25}"
+          },
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/Shoulder/{126}_{25}_{130}"
+          },
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/Sleeve/{126}_{25}_CSB4K"
+          },
+          {
+            "imageTemplate": "Coatconfig/Shared/lining/{126}_{25}_{23}_{64}"
+          },
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/pockets/{126}_{25}_CCPB"
+          },
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/lapel/{126}_{25}_{127}"
+          },
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/pockets/{126}_{25}_{132}"
+          },
+          {
+            "imageTemplate": "Coatconfig/Shared/buttons/{126}_{25}_{115}"
+          },
+          {
+            "imageTemplate": "Coatconfig/{fabricId}/coat/waist/{126}_{25}_{1}"
+          },
+          {
+            "imageTemplate": "Coatconfig/Shared/buttons/{126}_{25}_{132}_{115}"
+          },
+          {
+            "imageTemplate": "Coatconfig/Shared/buttons/{126}_{25}_CSB4K_{115}"
+          }
+        ]
+      }
+    }
+  },
+  "configuratordataproviderBasePath": "https://apim.suitsupply.com/custommade/configuratordataprovider/api/v1/",
+  "productconfigurationBasePath": "https://apim.suitsupply.com/custommade/productconfiguration/v1/",
+  "productconfigurationKey": "ApiKey 534541ea813444b6801fd39da3217bd8",
+  "productmeasurementBasePath": "https://apim.suitsupply.com/measurements/api/v1/",
+  "configurationImagesBasePath": "https://cdn.suitsupply.com/image/upload/configurationimages",
+  "addToCartWebstoreUrlTemplate": "https://suitsupply.com/on/demandware.store/Sites-{0}-Site/{1}/Cart-AddCustomMadeProducts",
+  "cmWebstoreOrigin": "https://suitsupply.com/"
+}
