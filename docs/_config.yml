@@ -1,0 +1,9 @@
+title: Suitsupply Custom Made — Reference
+description: Fabrics, customization options, and style presets for every product type.
+theme: minima
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-seo-tag
