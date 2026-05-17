@@ -1,3 +1,7 @@
+---
+title: Shirt
+---
+
 # Shirt
 
 **Delivery:** 2–3 weeks

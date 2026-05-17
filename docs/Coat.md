@@ -1,3 +1,7 @@
+---
+title: Coat
+---
+
 # Coat
 
 **Delivery:** 2–3 weeks

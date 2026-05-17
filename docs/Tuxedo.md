@@ -1,3 +1,7 @@
+---
+title: Tuxedo
+---
+
 # Tuxedo
 
 **Delivery:** 2–3 weeks

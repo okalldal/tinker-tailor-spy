@@ -1,3 +1,7 @@
+---
+title: Trouser
+---
+
 # Trouser
 
 **Delivery:** 2–3 weeks

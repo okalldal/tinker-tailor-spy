@@ -1,3 +1,7 @@
+---
+title: TuxedoShirt
+---
+
 # TuxedoShirt
 
 **Delivery:** 2–3 weeks

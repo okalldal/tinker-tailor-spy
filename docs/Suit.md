@@ -1,3 +1,7 @@
+---
+title: Suit
+---
+
 # Suit
 
 **Delivery:** 2–3 weeks

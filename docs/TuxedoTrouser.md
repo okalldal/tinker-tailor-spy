@@ -1,3 +1,7 @@
+---
+title: TuxedoTrouser
+---
+
 # TuxedoTrouser
 
 **Delivery:** 2–3 weeks

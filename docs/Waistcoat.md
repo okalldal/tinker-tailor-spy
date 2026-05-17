@@ -1,3 +1,7 @@
+---
+title: Waistcoat
+---
+
 # Waistcoat
 
 **Delivery:** 2–3 weeks

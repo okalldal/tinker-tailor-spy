@@ -135,7 +135,13 @@ def convert(json_path: Path, output_dir: Path) -> None:
     ct_labels = [(ct_id, ct_label(ct_id, layer_defs)) for ct_id in config_types]
     multi = len(config_types) > 1
 
-    lines: list[str] = [f"# {product_name}\n"]
+    lines: list[str] = [
+        "---",
+        f"title: {product_name}",
+        "---",
+        "",
+        f"# {product_name}\n",
+    ]
     if min_w and max_w:
         lines.append(f"**Delivery:** {min_w}–{max_w} weeks\n")
 
