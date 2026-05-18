@@ -109,7 +109,15 @@ def render_fabric_table(
             f"€{prices[ct_id]}" if ct_id in prices else "—"
             for ct_id, _ in ct_labels
         )
-        rtw = ", ".join(fab.get("rtwProductCodes") or []) or "—"
+        _INVALID_RTW = {"0", "Loan", "Not defined", ""}
+        rtw_codes = [
+            c for c in (fab.get("rtwProductCodes") or [])
+            if c not in _INVALID_RTW
+        ]
+        rtw = ", ".join(
+            f"[{c}](https://suitsupply.com/en-se/search?q={c})"
+            for c in rtw_codes
+        ) or "—"
         row = (
             f"| {fab['code']} | {fab['name']} | {fab['colorName']} | {fab['dessinName']} "
             f"| {fab['compositionText']} | {fab['weight']} | {fab['manufacturerName']} "
