@@ -94,10 +94,16 @@ def render_fabric_table(
 
     lines = ["\n## Fabrics\n", header, separator]
 
+    # Collect and sort fabrics by Mill, then by Code
+    fabrics = []
     for fid in fabric_sequence:
         fab = fabric_list.get(str(fid))
-        if fab is None:
-            continue
+        if fab is not None:
+            fabrics.append(fab)
+
+    fabrics.sort(key=lambda f: (f.get("manufacturerName", ""), f.get("code", "")))
+
+    for fab in fabrics:
         prices = fab.get("prices", {}).get("configurationTypes", {})
         price_cells = " | ".join(
             f"€{prices[ct_id]}" if ct_id in prices else "—"
