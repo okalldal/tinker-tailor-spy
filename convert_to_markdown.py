@@ -115,7 +115,7 @@ def render_fabric_table(
             if c not in _INVALID_RTW
         ]
         rtw = ", ".join(
-            f"[{c}](https://suitsupply.com/sv-se/search?q={c})"
+            f"[{c}](https://suitsupply.com/sv-se/men/{c}.html)"
             for c in rtw_codes
         ) or "—"
         row = (
