@@ -141,114 +141,114 @@ title: Shirt
 
 | Code | Name | Color | Pattern | Composition | Weight (g/m²) | Mill | Season | Stock | Shirt Price | RTW Codes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A.F3405816/4490 | Black Lyocell Silk | Black | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €179 | H6926 |
-| F3103737.1 | White Nido D'ape Cotton | White | Plain | 100% Egyptian Cotton | 170 | Albini (It) | All Season | High | €149 | H6781ESF |
-| F3189837.49 | Grey Twill Cotton Flannel | Grey | Plain | 100% Egyptian Cotton | 130 | Albini (It) | Fall/Winter | High | €159 | H6402 |
+| A.F3405816/4490 | Black Lyocell Silk | Black | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €179 | [H6926](https://suitsupply.com/sv-se/search?q=H6926) |
+| F3103737.1 | White Nido D'ape Cotton | White | Plain | 100% Egyptian Cotton | 170 | Albini (It) | All Season | High | €149 | [H6781ESF](https://suitsupply.com/sv-se/search?q=H6781ESF) |
+| F3189837.49 | Grey Twill Cotton Flannel | Grey | Plain | 100% Egyptian Cotton | 130 | Albini (It) | Fall/Winter | High | €159 | [H6402](https://suitsupply.com/sv-se/search?q=H6402) |
 | F3190653.11 | Light Blue Poplin Stretch | Blue | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 125 | Albini (It) | All Season | High | €169 | — |
 | F3190654.11 | Light Blue Hairline Poplin Stretch | Blue | Stripe | 78% Cotton, 17% Polyamide, 5% Elastane | 125 | Albini (It) | All Season | High | €169 | — |
-| F3192063.31 | Pink Royal Oxford Cotton | Pink | Plain | 100% Egyptian Cotton | 128 | Albini (It) | All Season | High | €149 | H6788 |
+| F3192063.31 | Pink Royal Oxford Cotton | Pink | Plain | 100% Egyptian Cotton | 128 | Albini (It) | All Season | High | €149 | [H6788](https://suitsupply.com/sv-se/search?q=H6788) |
 | F3192152.21 | Light Brown Stripe Poplin Cotton | Brown | Stripe | 100% Egyptian Cotton | 110 | Albini (It) | All Season | High | €149 | — |
-| F3192621.1 | White Pure Linen | White | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | H6728 |
-| F3192621.10 | Light Blue Pure Linen | Blue | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | H6729 |
-| F3192621.20 | Light Brown Pure Linen | Brown | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | H6700 |
-| F3195620/1 | White Royal Oxford Cotton | White | Plain | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | H6755 |
-| F3195620/11 | Light Blue Royal Oxford Egyptian Cotton | Blue | Plain | 100% Cotton | 205 | Albini (It) | All Season | High | €149 | H7009 |
-| F3280190.1 | White Cotton Linen | White | Plain | 66% Linen, 34% Cotton | 100 | Albini (It) | Spring/Summer | High | €149 | H9243ESF |
-| F339637.199851 | Navy Pure Linen | Blue | Plain | 100% Linen | 130 | Albini (It) | Spring/Summer | High | €149 | H6726 |
+| F3192621.1 | White Pure Linen | White | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | [H6728](https://suitsupply.com/sv-se/search?q=H6728) |
+| F3192621.10 | Light Blue Pure Linen | Blue | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | [H6729](https://suitsupply.com/sv-se/search?q=H6729) |
+| F3192621.20 | Light Brown Pure Linen | Brown | Plain | 100% Linen | 120 | Albini (It) | Spring/Summer | High | €149 | [H6700](https://suitsupply.com/sv-se/search?q=H6700) |
+| F3195620/1 | White Royal Oxford Cotton | White | Plain | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | [H6755](https://suitsupply.com/sv-se/search?q=H6755) |
+| F3195620/11 | Light Blue Royal Oxford Egyptian Cotton | Blue | Plain | 100% Cotton | 205 | Albini (It) | All Season | High | €149 | [H7009](https://suitsupply.com/sv-se/search?q=H7009) |
+| F3280190.1 | White Cotton Linen | White | Plain | 66% Linen, 34% Cotton | 100 | Albini (It) | Spring/Summer | High | €149 | [H9243ESF](https://suitsupply.com/sv-se/search?q=H9243ESF) |
+| F339637.199851 | Navy Pure Linen | Blue | Plain | 100% Linen | 130 | Albini (It) | Spring/Summer | High | €149 | [H6726](https://suitsupply.com/sv-se/search?q=H6726) |
 | F3405172.20 | Off-White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | — |
 | F3405172.31 | Pink Twill Cotton | Pink | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | — |
-| F3405940.1 | White Twill Pure Cotton | White | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €149 | H6393 |
+| F3405940.1 | White Twill Pure Cotton | White | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €149 | [H6393](https://suitsupply.com/sv-se/search?q=H6393) |
 | F3405940.11 | Light Blue Twill Pure Cotton | Blue | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €149 | — |
-| F3407014.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H6446ESF |
+| F3407014.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | [H6446ESF](https://suitsupply.com/sv-se/search?q=H6446ESF) |
 | F3408087.1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | — |
 | F3408087.11 | Light Blue Herringbone Cotton | Blue | Herringbone | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | — |
-| F3408254.1 | White Poplin Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | H9095, H9096 |
-| F3409170.23 | Light Brown Stripe Twill Cotton Lyocell | Brown | Stripe | 74% Cotton, 26% Tencel | 174 | Albini (It) | All Season | High | €149 | H6541ESF |
-| F3411121.11 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | H6881 |
+| F3408254.1 | White Poplin Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | [H9095](https://suitsupply.com/sv-se/search?q=H9095), [H9096](https://suitsupply.com/sv-se/search?q=H9096) |
+| F3409170.23 | Light Brown Stripe Twill Cotton Lyocell | Brown | Stripe | 74% Cotton, 26% Tencel | 174 | Albini (It) | All Season | High | €149 | [H6541ESF](https://suitsupply.com/sv-se/search?q=H6541ESF) |
+| F3411121.11 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | [H6881](https://suitsupply.com/sv-se/search?q=H6881) |
 | F344018.3 | Off-White Poplin Stretch | White | Plain | 78% Cotton, 18% Polyamide, 4% Elastane | 180 | Albini (It) | All Season | High | €169 | — |
 | F344018.4049 | Black Poplin Stretch | Black | Plain | 78% Cotton, 18% Polyamide, 4% Elastane | 180 | Albini (It) | All Season | High | €169 | — |
-| F353800.13 | Mid Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 112 | Albini (It) | All Season | High | €149 | H6786ESF |
-| F357134.13 | Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | H6880 |
-| F357253.1 | White Giro Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | H6342ESF |
-| F357253.11 | Light Blue Giro Cotton | Blue | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €129 | H6345ESF, H6345 |
-| F357311.11 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 86 | Albini (It) | All Season | High | €149 | H6784ESF |
+| F353800.13 | Mid Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 112 | Albini (It) | All Season | High | €149 | [H6786ESF](https://suitsupply.com/sv-se/search?q=H6786ESF) |
+| F357134.13 | Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | [H6880](https://suitsupply.com/sv-se/search?q=H6880) |
+| F357253.1 | White Giro Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | [H6342ESF](https://suitsupply.com/sv-se/search?q=H6342ESF) |
+| F357253.11 | Light Blue Giro Cotton | Blue | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €129 | [H6345ESF](https://suitsupply.com/sv-se/search?q=H6345ESF), [H6345](https://suitsupply.com/sv-se/search?q=H6345) |
+| F357311.11 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 86 | Albini (It) | All Season | High | €149 | [H6784ESF](https://suitsupply.com/sv-se/search?q=H6784ESF) |
 | F385643.11 | Light Blue Houndstooth Twill Cotton | Blue | Houndstooth | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | — |
 | F397166/1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €149 | — |
-| F397278.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H9390ESF, H7205, H7003 |
-| F397278.10 | Light Blue Twill Cotton | Blue | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H9392ESF, H7004 |
-| F397382.10 | Light Blue Twill Cotton | Blue | Plain | 100% Egyptian Cotton | 122 | Albini (It) | All Season | High | €149 | H6447ESF |
-| F397400.11 | Light Blue Stripe Royal Oxford Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | H6744 |
-| F397401.15 | Navy Stripe Twill Cotton | Blue | Stripe | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | H6753 |
+| F397278.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | [H9390ESF](https://suitsupply.com/sv-se/search?q=H9390ESF), [H7205](https://suitsupply.com/sv-se/search?q=H7205), [H7003](https://suitsupply.com/sv-se/search?q=H7003) |
+| F397278.10 | Light Blue Twill Cotton | Blue | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | [H9392ESF](https://suitsupply.com/sv-se/search?q=H9392ESF), [H7004](https://suitsupply.com/sv-se/search?q=H7004) |
+| F397382.10 | Light Blue Twill Cotton | Blue | Plain | 100% Egyptian Cotton | 122 | Albini (It) | All Season | High | €149 | [H6447ESF](https://suitsupply.com/sv-se/search?q=H6447ESF) |
+| F397400.11 | Light Blue Stripe Royal Oxford Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €149 | [H6744](https://suitsupply.com/sv-se/search?q=H6744) |
+| F397401.15 | Navy Stripe Twill Cotton | Blue | Stripe | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €149 | [H6753](https://suitsupply.com/sv-se/search?q=H6753) |
 | F397402.11 | Light Blue Poplin Cotton | Blue | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €149 | — |
-| PM.F357197/41 | Grey Stripe Poplin Egyptian Cotton | Grey | Stripe | 100% Cotton | 91 | Albini (It) | All Season | High | €149 | H7403 |
-| PNF3413012/13C | White Stripe Poplin Egyptian Cotton | White | Stripe | 100% Cotton | 120 | Albini (It) | All Season | High | €169 | H7548 |
-| PT.F3411730/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 88 | Albini (It) | All Season | High | €149 | H7209 |
-| PT.F3411738/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 88 | Albini (It) | All Season | High | €149 | H7207 |
-| Q6A.F3405816/1 | White Lyocell Silk | White | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €179 | H6927 |
-| SE.F3192621/540 | Green Pure Linen | Green | Plain | 100% Linen | 119 | Albini (It) | Spring/Summer | High | €149 | H7319 |
-| TA.F3194489/15 | Mid Blue Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 84 | Albini (It) | All Season | High | €149 | H7315 |
-| TA.F3194510/41 | Grey Stripe Egyptian Cotton | White | Stripe | 100% Cotton | 84 | Albini (It) | All Season | High | €149 | H7311 |
-| TAT.F3193751/13 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 87 | Albini (It) | All Season | High | €149 | H6921 |
-| TAT.F3194510/21 | Camel Stripe Poplin Egyptian Cotton | Brown | Stripe | 100% Cotton | 85 | Albini (It) | All Season | High | €149 | H7406 |
-| YPF3412843/13B | Mid Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Albini (It) | All Season | High | €149 | H7550 |
-| SPERRIN/28516 | Mid Blue Pure Linen | Blue | Plain | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | H7348 |
-| SPERRIN/Dbrown | Dark Brown Pure Linen | Brown | Plain | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | H7592 |
-| SPYD.H945/6902 | Mid Blue Stripe Pure Linen | Blue | Stripe | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | H7512 |
-| AH04044.2005565/1D | Navy Royal Oxford Cotton Traveller | Blue | Plain | 100% Cotton | 137 | Luthai (Cn) | All Season | High | €109 | H9311 |
+| PM.F357197/41 | Grey Stripe Poplin Egyptian Cotton | Grey | Stripe | 100% Cotton | 91 | Albini (It) | All Season | High | €149 | [H7403](https://suitsupply.com/sv-se/search?q=H7403) |
+| PNF3413012/13C | White Stripe Poplin Egyptian Cotton | White | Stripe | 100% Cotton | 120 | Albini (It) | All Season | High | €169 | [H7548](https://suitsupply.com/sv-se/search?q=H7548) |
+| PT.F3411730/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 88 | Albini (It) | All Season | High | €149 | [H7209](https://suitsupply.com/sv-se/search?q=H7209) |
+| PT.F3411738/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 88 | Albini (It) | All Season | High | €149 | [H7207](https://suitsupply.com/sv-se/search?q=H7207) |
+| Q6A.F3405816/1 | White Lyocell Silk | White | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €179 | [H6927](https://suitsupply.com/sv-se/search?q=H6927) |
+| SE.F3192621/540 | Green Pure Linen | Green | Plain | 100% Linen | 119 | Albini (It) | Spring/Summer | High | €149 | [H7319](https://suitsupply.com/sv-se/search?q=H7319) |
+| TA.F3194489/15 | Mid Blue Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 84 | Albini (It) | All Season | High | €149 | [H7315](https://suitsupply.com/sv-se/search?q=H7315) |
+| TA.F3194510/41 | Grey Stripe Egyptian Cotton | White | Stripe | 100% Cotton | 84 | Albini (It) | All Season | High | €149 | [H7311](https://suitsupply.com/sv-se/search?q=H7311) |
+| TAT.F3193751/13 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 87 | Albini (It) | All Season | High | €149 | [H6921](https://suitsupply.com/sv-se/search?q=H6921) |
+| TAT.F3194510/21 | Camel Stripe Poplin Egyptian Cotton | Brown | Stripe | 100% Cotton | 85 | Albini (It) | All Season | High | €149 | [H7406](https://suitsupply.com/sv-se/search?q=H7406) |
+| YPF3412843/13B | Mid Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Albini (It) | All Season | High | €149 | [H7550](https://suitsupply.com/sv-se/search?q=H7550) |
+| SPERRIN/28516 | Mid Blue Pure Linen | Blue | Plain | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | [H7348](https://suitsupply.com/sv-se/search?q=H7348) |
+| SPERRIN/Dbrown | Dark Brown Pure Linen | Brown | Plain | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | [H7592](https://suitsupply.com/sv-se/search?q=H7592) |
+| SPYD.H945/6902 | Mid Blue Stripe Pure Linen | Blue | Stripe | 100% Linen | 130 | Baird McNutt (GB) | Spring/Summer | High | €149 | [H7512](https://suitsupply.com/sv-se/search?q=H7512) |
+| AH04044.2005565/1D | Navy Royal Oxford Cotton Traveller | Blue | Plain | 100% Cotton | 137 | Luthai (Cn) | All Season | High | €109 | [H9311](https://suitsupply.com/sv-se/search?q=H9311) |
 | AH04044.2005569/1D | Light Grey Stripe Twill Cotton Traveller | Grey | Stripe | 100% Cotton | 140 | Luthai (Cn) | All Season | High | €109 | — |
-| 14900.0.109 | White Poplin Stretch | White | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €169 | H6682ESF, H7007 |
+| 14900.0.109 | White Poplin Stretch | White | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €169 | [H6682ESF](https://suitsupply.com/sv-se/search?q=H6682ESF), [H7007](https://suitsupply.com/sv-se/search?q=H7007) |
 | 14900.0/180 | Black Poplin Stretch Cotton | Black | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 130 | Reggiani (It) | All Season | High | €169 | — |
-| 14900.0/6661 | Navy Twill Stretch | Blue | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 180 | Reggiani (It) | All Season | High | €169 | H6585ESF |
-| 14900C.30 | Light Blue Stripe Poplin Stretch | Blue | Stripe | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €169 | H6680ESF |
-| MC00-5289/001 | Mid Blue Stripe Poplin Pure Cotton | Blue | Stripe | 100% Cotton | 110 | Sidogras (Es) | All Season | High | €109 | H7526 |
-| MC00-5611/004 | Sand Stripe Pure Lyocell | Brown | Stripe | 100% Lyocell | 120 | Sidogras (Es) | All Season | High | €149 | H7536 |
-| PCRL.P151/0009 | White Poplin Pure Cotton | White | Plain | 100% Cotton | 140 | Sidogras (Es) | All Season | High | €109 | H7523 |
-| PCRL.P151/9191 | Light Blue Poplin Pure Cotton | Blue | Plain | 100% Cotton | 140 | Sidogras (Es) | All Season | High | €109 | H7564 |
-| TC2058.815 | Off-White Pique Cotton | White | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | H6714ESF, H7214 |
-| TC2062.802 | Navy Jersey Cotton | Blue | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | H6713ESF |
-| TC2062.806 | Black Jersey Cotton | Black | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | H6807ESF |
-| KENT/1000 | White Poplin Egyptian Cotton | White | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €109 | H7011 |
-| KENT/50408 | Light Blue Poplin Egyptian Cotton | Blue | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €109 | H7012 |
-| LDM.A80275/1000 | White Cotton Linen | White | Plain | 67% Cotton, 33% Linen | 110 | Testa Spa (It) | Spring/Summer | High | €149 | H6918 |
-| LDM.A80275/3 | Light Blue Cotton Linen | Blue | Plain | 67% Cotton, 33% Linen | 110 | Testa Spa (It) | Spring/Summer | High | €149 | H6919 |
-| DW.F3193620/13 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 120 | Thomas Mason (It) | All Season | High | €169 | H6920 |
-| DW.F3193874/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7216 |
-| DW.F3401643/45 |  Black Stripe Poplin Egyptian Cotton | Black | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €169 | H7404 |
-| DW.F355585/11 | Mid Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7217 |
-| DW.F355587/45B | Black Stripe Poplin Egyptian Cotton | Black | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | H7544 |
-| DWF3403497/15B | Navy Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7549 |
-| F3101704.1 | White Cotton Linen | White | Plain | 71% Cotton, 29% Linen | 105 | Thomas Mason (It) | Spring/Summer | High | €169 | H6780ESF |
+| 14900.0/6661 | Navy Twill Stretch | Blue | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 180 | Reggiani (It) | All Season | High | €169 | [H6585ESF](https://suitsupply.com/sv-se/search?q=H6585ESF) |
+| 14900C.30 | Light Blue Stripe Poplin Stretch | Blue | Stripe | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €169 | [H6680ESF](https://suitsupply.com/sv-se/search?q=H6680ESF) |
+| MC00-5289/001 | Mid Blue Stripe Poplin Pure Cotton | Blue | Stripe | 100% Cotton | 110 | Sidogras (Es) | All Season | High | €109 | [H7526](https://suitsupply.com/sv-se/search?q=H7526) |
+| MC00-5611/004 | Sand Stripe Pure Lyocell | Brown | Stripe | 100% Lyocell | 120 | Sidogras (Es) | All Season | High | €149 | [H7536](https://suitsupply.com/sv-se/search?q=H7536) |
+| PCRL.P151/0009 | White Poplin Pure Cotton | White | Plain | 100% Cotton | 140 | Sidogras (Es) | All Season | High | €109 | [H7523](https://suitsupply.com/sv-se/search?q=H7523) |
+| PCRL.P151/9191 | Light Blue Poplin Pure Cotton | Blue | Plain | 100% Cotton | 140 | Sidogras (Es) | All Season | High | €109 | [H7564](https://suitsupply.com/sv-se/search?q=H7564) |
+| TC2058.815 | Off-White Pique Cotton | White | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | [H6714ESF](https://suitsupply.com/sv-se/search?q=H6714ESF), [H7214](https://suitsupply.com/sv-se/search?q=H7214) |
+| TC2062.802 | Navy Jersey Cotton | Blue | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | [H6713ESF](https://suitsupply.com/sv-se/search?q=H6713ESF) |
+| TC2062.806 | Black Jersey Cotton | Black | Plain | 100% Egyptian Cotton | 134 | Tessilmaglia (It) | All Season | High | €109 | [H6807ESF](https://suitsupply.com/sv-se/search?q=H6807ESF) |
+| KENT/1000 | White Poplin Egyptian Cotton | White | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €109 | [H7011](https://suitsupply.com/sv-se/search?q=H7011) |
+| KENT/50408 | Light Blue Poplin Egyptian Cotton | Blue | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €109 | [H7012](https://suitsupply.com/sv-se/search?q=H7012) |
+| LDM.A80275/1000 | White Cotton Linen | White | Plain | 67% Cotton, 33% Linen | 110 | Testa Spa (It) | Spring/Summer | High | €149 | [H6918](https://suitsupply.com/sv-se/search?q=H6918) |
+| LDM.A80275/3 | Light Blue Cotton Linen | Blue | Plain | 67% Cotton, 33% Linen | 110 | Testa Spa (It) | Spring/Summer | High | €149 | [H6919](https://suitsupply.com/sv-se/search?q=H6919) |
+| DW.F3193620/13 | Light Blue Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 120 | Thomas Mason (It) | All Season | High | €169 | [H6920](https://suitsupply.com/sv-se/search?q=H6920) |
+| DW.F3193874/13 | Light Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | [H7216](https://suitsupply.com/sv-se/search?q=H7216) |
+| DW.F3401643/45 |  Black Stripe Poplin Egyptian Cotton | Black | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €169 | [H7404](https://suitsupply.com/sv-se/search?q=H7404) |
+| DW.F355585/11 | Mid Blue Poplin Stripe Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | [H7217](https://suitsupply.com/sv-se/search?q=H7217) |
+| DW.F355587/45B | Black Stripe Poplin Egyptian Cotton | Black | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | [H7544](https://suitsupply.com/sv-se/search?q=H7544) |
+| DWF3403497/15B | Navy Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | [H7549](https://suitsupply.com/sv-se/search?q=H7549) |
+| F3101704.1 | White Cotton Linen | White | Plain | 71% Cotton, 29% Linen | 105 | Thomas Mason (It) | Spring/Summer | High | €169 | [H6780ESF](https://suitsupply.com/sv-se/search?q=H6780ESF) |
 | F3192776.10 | Light Blue Twill Sea Island Cotton | Blue | Plain | 100% Sea Island Cotton | 114 | Thomas Mason (It) | All Season | High | €229 | — |
-| F3401638.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | H9356, H7006 |
+| F3401638.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | [H9356](https://suitsupply.com/sv-se/search?q=H9356), [H7006](https://suitsupply.com/sv-se/search?q=H7006) |
 | F3401639.15 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | — |
-| F3403497.49 | White Stripe Cotton Poplin | White | Stripe | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | H6884, H7212 |
-| F3403556.12 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | H6485 |
-| F3403557.14 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | H6746 |
+| F3403497.49 | White Stripe Cotton Poplin | White | Stripe | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €169 | [H6884](https://suitsupply.com/sv-se/search?q=H6884), [H7212](https://suitsupply.com/sv-se/search?q=H7212) |
+| F3403556.12 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | [H6485](https://suitsupply.com/sv-se/search?q=H6485) |
+| F3403557.14 | Blue Stripe Twill Egyptian Cotton | Blue | Stripe | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | [H6746](https://suitsupply.com/sv-se/search?q=H6746) |
 | F340782.1 | White Poplin Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 112 | Thomas Mason (It) | All Season | High | €229 | — |
 | F344400.1 | White Twill Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 114 | Thomas Mason (It) | All Season | High | €229 | — |
 | F344402.1 | White Royal Oxford Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 116 | Thomas Mason (It) | All Season | High | €229 | — |
 | F354094.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
 | F354094.143 | Blue Twill Egyptian Cotton | Blue | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
 | F354095.1 | White Royal Oxford Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
-| F355586.18 | Navy Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €149 | H6441ESF |
-| F356239.1 | White Poplin Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €169 | H9256 |
-| F356239.4490 | Black Poplin Egyptian Cotton | Black | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €169 | H6887 |
+| F355586.18 | Navy Stripe Poplin Cotton | Blue | Stripe | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €149 | [H6441ESF](https://suitsupply.com/sv-se/search?q=H6441ESF) |
+| F356239.1 | White Poplin Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €169 | [H9256](https://suitsupply.com/sv-se/search?q=H9256) |
+| F356239.4490 | Black Poplin Egyptian Cotton | Black | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €169 | [H6887](https://suitsupply.com/sv-se/search?q=H6887) |
 | F359266.1 | White Herringbone Sea Island Cotton | White | Herringbone | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €229 | — |
 | F359267.11 | Light Blue Herringbone Sea Island Cotton | Blue | Herringbone | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €229 | — |
 | F359269.11 | Light Blue Twill Sea Island Cotton | Blue | Plain | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €229 | — |
 | F368257.13 | Light Blue Royal Oxford Egyptian Cotton | Blue | Plain | 100% Egyptian Cotton | 205 | Thomas Mason (It) | All Season | High | €169 | — |
-| R.F3412643/15B | Light Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | H7543 |
-| RG.F3412648/15 | Light Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | H7407 |
-| RG.F412648/18 | Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | H7408 |
+| R.F3412643/15B | Light Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 122 | Thomas Mason (It) | All Season | High | €149 | [H7543](https://suitsupply.com/sv-se/search?q=H7543) |
+| RG.F3412648/15 | Light Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | [H7407](https://suitsupply.com/sv-se/search?q=H7407) |
+| RG.F412648/18 | Blue Stripe Poplin Egyptian Cotton | Blue | Stripe | 100% Cotton | 120 | Thomas Mason (It) | All Season | High | €149 | [H7408](https://suitsupply.com/sv-se/search?q=H7408) |
 | 91129.1831.00 | White Oxford Wrinkle-Free Pima Cotton | White | Plain | 100% Pima Cotton | 125 | Weba (Ch) | All Season | High | €129 | — |
 | 91129.1831.14 | Light Blue Royal Oxford Wrinkle-Free Pima Cotton | Blue | Plain | 100% Pima Cotton | 125 | Weba (Ch) | All Season | High | €129 | — |
-| 91310.9526.12 | Light Blue Houndstooth Twill Wrinkle-Free Pima Cotton | Blue | Houndstooth | 100% Pima Cotton | 162 | Weba (Ch) | All Season | High | €129 | H6892 |
-| 91724.5554.00 | White Twill Wrinkle-Free Pima Cotton | White | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €129 | H7000 |
-| 91724.5554.S112 | Light Blue Twill Wrinkle-Free Pima Cotton | Blue | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €129 | H7001 |
-| 91724.9523.16 | White Pinstripe Twill Wrinkle-Free Pima Cotton | White | Stripe | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | H6890 |
-| 91724.9524.12 | Light Blue Check Twill Wrinkle-Free Pima Cotton | Blue | Check | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | H6891 |
-| 91724.9525.32 | Light Grey Stripe Twill Wrinkle-Free Pima Cotton | Grey | Stripe | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | H6893 |
-| 91737.9529.12 | Mid Blue Stripe Twill Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 147 | Weba (Ch) | All Season | High | €129 | H9418ESF |
-| 91738.9530.10 | Light Blue Stripe Oxford Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 168 | Weba (Ch) | All Season | High | €129 | H7002 |
+| 91310.9526.12 | Light Blue Houndstooth Twill Wrinkle-Free Pima Cotton | Blue | Houndstooth | 100% Pima Cotton | 162 | Weba (Ch) | All Season | High | €129 | [H6892](https://suitsupply.com/sv-se/search?q=H6892) |
+| 91724.5554.00 | White Twill Wrinkle-Free Pima Cotton | White | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €129 | [H7000](https://suitsupply.com/sv-se/search?q=H7000) |
+| 91724.5554.S112 | Light Blue Twill Wrinkle-Free Pima Cotton | Blue | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €129 | [H7001](https://suitsupply.com/sv-se/search?q=H7001) |
+| 91724.9523.16 | White Pinstripe Twill Wrinkle-Free Pima Cotton | White | Stripe | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | [H6890](https://suitsupply.com/sv-se/search?q=H6890) |
+| 91724.9524.12 | Light Blue Check Twill Wrinkle-Free Pima Cotton | Blue | Check | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | [H6891](https://suitsupply.com/sv-se/search?q=H6891) |
+| 91724.9525.32 | Light Grey Stripe Twill Wrinkle-Free Pima Cotton | Grey | Stripe | 100% Pima Cotton | 126 | Weba (Ch) | All Season | High | €129 | [H6893](https://suitsupply.com/sv-se/search?q=H6893) |
+| 91737.9529.12 | Mid Blue Stripe Twill Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 147 | Weba (Ch) | All Season | High | €129 | [H9418ESF](https://suitsupply.com/sv-se/search?q=H9418ESF) |
+| 91738.9530.10 | Light Blue Stripe Oxford Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 168 | Weba (Ch) | All Season | High | €129 | [H7002](https://suitsupply.com/sv-se/search?q=H7002) |
 | 91747.9537.S117 | Navy Royal Oxford  Wrinkle-Free Pima Cotton | Blue | Plain | 100% Pima Cotton | 145 | Weba (Ch) | All Season | High | €129 | — |
-| 91750.9560.16 | Navy Stripe Royal Oxford Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 135 | Weba (Ch) | All Season | High | €129 | H9409, H7201 |
+| 91750.9560.16 | Navy Stripe Royal Oxford Wrinkle-Free Pima Cotton | Blue | Stripe | 100% Pima Cotton | 135 | Weba (Ch) | All Season | High | €129 | [H9409](https://suitsupply.com/sv-se/search?q=H9409), [H7201](https://suitsupply.com/sv-se/search?q=H7201) |

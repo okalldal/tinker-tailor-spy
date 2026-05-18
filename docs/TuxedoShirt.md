@@ -85,22 +85,22 @@ title: TuxedoShirt
 
 | Code | Name | Color | Pattern | Composition | Weight (g/m²) | Mill | Season | Stock | Shirt Price | RTW Codes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A.F3405816/4490 | Black Lyocell Silk | Black | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €199 | H6926 |
-| F3195620/1 | White Royal Oxford Cotton | White | Plain | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €169 | H6755 |
-| F3405940.1 | White Twill Pure Cotton | White | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €169 | H6393 |
+| A.F3405816/4490 | Black Lyocell Silk | Black | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €199 | [H6926](https://suitsupply.com/sv-se/search?q=H6926) |
+| F3195620/1 | White Royal Oxford Cotton | White | Plain | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €169 | [H6755](https://suitsupply.com/sv-se/search?q=H6755) |
+| F3405940.1 | White Twill Pure Cotton | White | Plain | 100% Cotton | 155 | Albini (It) | All Season | High | €169 | [H6393](https://suitsupply.com/sv-se/search?q=H6393) |
 | F3408087.1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 205 | Albini (It) | All Season | High | €169 | — |
-| F3408254.1 | White Poplin Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €169 | H9095, H9096 |
+| F3408254.1 | White Poplin Cotton | White | Plain | 100% Egyptian Cotton | 165 | Albini (It) | All Season | High | €169 | [H9095](https://suitsupply.com/sv-se/search?q=H9095), [H9096](https://suitsupply.com/sv-se/search?q=H9096) |
 | F344018.4049 | Black Poplin Stretch | Black | Plain | 78% Cotton, 18% Polyamide, 4% Elastane | 180 | Albini (It) | All Season | High | €189 | — |
 | F397166/1 | White Herringbone Cotton | White | Herringbone | 100% Egyptian Cotton | 135 | Albini (It) | All Season | High | €169 | — |
-| F397278.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €169 | H9390ESF, H7205, H7003 |
-| Q6A.F3405816/1 | White Lyocell Silk | White | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €199 | H6927 |
-| 14900.0.109 | White Poplin Stretch | White | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €189 | H6682ESF, H7007 |
-| KENT/1000 | White Poplin Egyptian Cotton | White | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €129 | H7011 |
-| F3401638.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €189 | H9356, H7006 |
+| F397278.1 | White Twill Cotton | White | Plain | 100% Egyptian Cotton | 190 | Albini (It) | All Season | High | €169 | [H9390ESF](https://suitsupply.com/sv-se/search?q=H9390ESF), [H7205](https://suitsupply.com/sv-se/search?q=H7205), [H7003](https://suitsupply.com/sv-se/search?q=H7003) |
+| Q6A.F3405816/1 | White Lyocell Silk | White | Plain | 74% Lyocell, 26% Silk | 113 | Albini (It) | All Season | High | €199 | [H6927](https://suitsupply.com/sv-se/search?q=H6927) |
+| 14900.0.109 | White Poplin Stretch | White | Plain | 78% Cotton, 17% Polyamide, 5% Elastane | 135 | Reggiani (It) | All Season | High | €189 | [H6682ESF](https://suitsupply.com/sv-se/search?q=H6682ESF), [H7007](https://suitsupply.com/sv-se/search?q=H7007) |
+| KENT/1000 | White Poplin Egyptian Cotton | White | Plain | 100% Cotton | 120 | Testa Spa (It) | All Season | High | €129 | [H7011](https://suitsupply.com/sv-se/search?q=H7011) |
+| F3401638.1 | White Twill Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 180 | Thomas Mason (It) | All Season | High | €189 | [H9356](https://suitsupply.com/sv-se/search?q=H9356), [H7006](https://suitsupply.com/sv-se/search?q=H7006) |
 | F340782.1 | White Poplin Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 112 | Thomas Mason (It) | All Season | High | €249 | — |
 | F344400.1 | White Twill Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 114 | Thomas Mason (It) | All Season | High | €249 | — |
 | F344402.1 | White Royal Oxford Sea Island Cotton | White | Plain | 100% Sea Island Cotton | 116 | Thomas Mason (It) | All Season | High | €249 | — |
-| F356239.1 | White Poplin Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €189 | H9256 |
-| F356239.4490 | Black Poplin Egyptian Cotton | Black | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €189 | H6887 |
+| F356239.1 | White Poplin Egyptian Cotton | White | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €189 | [H9256](https://suitsupply.com/sv-se/search?q=H9256) |
+| F356239.4490 | Black Poplin Egyptian Cotton | Black | Plain | 100% Egyptian Cotton | 190 | Thomas Mason (It) | All Season | High | €189 | [H6887](https://suitsupply.com/sv-se/search?q=H6887) |
 | F359266.1 | White Herringbone Sea Island Cotton | White | Herringbone | 100% Sea Island Cotton | 126 | Thomas Mason (It) | All Season | High | €249 | — |
-| 91724.5554.00 | White Twill Wrinkle-Free Pima Cotton | White | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €149 | H7000 |
+| 91724.5554.00 | White Twill Wrinkle-Free Pima Cotton | White | Plain | 100% Cotton | 126 | Weba (Ch) | All Season | High | €149 | [H7000](https://suitsupply.com/sv-se/search?q=H7000) |
